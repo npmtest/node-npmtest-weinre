@@ -1,472 +1,472 @@
 <svg height="7502" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="7502" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 14:23:29 +0000  5339831 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 14:23:29 +0000    26369 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 14:23:29 +0000      170 bytes  NOTICE</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 14:23:29 +0000     2125 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 14:23:29 +0000      135 bytes  build-info.txt</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 14:23:29 +0000     1421 bytes  interfaces/WeinreClientCommands.idl</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 14:23:29 +0000     1357 bytes  interfaces/WeinreClientEvents.idl</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 14:23:29 +0000      987 bytes  interfaces/WeinreExtraClientCommands.idl</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 14:23:29 +0000      983 bytes  interfaces/WeinreExtraTargetEvents.idl</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 14:23:29 +0000     1228 bytes  interfaces/WeinreTargetCommands.idl</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 14:23:29 +0000     1113 bytes  interfaces/WeinreTargetEvents.idl</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 14:23:29 +0000     4204 bytes  lib-src/Channel.coffee</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 14:23:29 +0000     5650 bytes  lib-src/HttpChannelHandler.coffee</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 14:23:29 +0000     2933 bytes  lib-src/MessageQueue.coffee</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 14:23:29 +0000     4713 bytes  lib-src/channelManager.coffee</tspan>
-<tspan x="10" y="266"> 15.  2017-04-11 14:23:29 +0000     4184 bytes  lib-src/cli.coffee</tspan>
-<tspan x="10" y="282"> 16.  2017-04-11 14:23:29 +0000     2867 bytes  lib-src/dumpingHandler.coffee</tspan>
-<tspan x="10" y="298"> 17.  2017-04-11 14:23:29 +0000     1355 bytes  lib-src/extensionManager.coffee</tspan>
-<tspan x="10" y="314"> 18.  2017-04-11 14:23:29 +0000     1782 bytes  lib-src/jsonBodyParser.coffee</tspan>
-<tspan x="10" y="330"> 19.  2017-04-11 14:23:29 +0000     2627 bytes  lib-src/messageHandler.coffee</tspan>
-<tspan x="10" y="346"> 20.  2017-04-11 14:23:29 +0000     5174 bytes  lib-src/service/WeinreClientCommands.coffee</tspan>
-<tspan x="10" y="362"> 21.  2017-04-11 14:23:29 +0000     4064 bytes  lib-src/service/WeinreTargetCommands.coffee</tspan>
-<tspan x="10" y="378"> 22.  2017-04-11 14:23:29 +0000     3291 bytes  lib-src/serviceManager.coffee</tspan>
-<tspan x="10" y="394"> 23.  2017-04-11 14:23:29 +0000     6221 bytes  lib-src/utils.coffee</tspan>
-<tspan x="10" y="410"> 24.  2017-04-11 14:23:29 +0000     7072 bytes  lib-src/weinre.coffee</tspan>
-<tspan x="10" y="426"> 25.  2017-04-11 14:23:29 +0000     3446 bytes  lib/Channel.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-11 14:23:29 +0000     4124 bytes  lib/HttpChannelHandler.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-11 14:23:29 +0000     1838 bytes  lib/MessageQueue.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-11 14:23:29 +0000     3677 bytes  lib/channelManager.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-11 14:23:29 +0000     3221 bytes  lib/cli.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-11 14:23:29 +0000     2205 bytes  lib/dumpingHandler.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-11 14:23:29 +0000      285 bytes  lib/extensionManager.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-11 14:23:29 +0000      808 bytes  lib/jsonBodyParser.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-11 14:23:29 +0000     1620 bytes  lib/messageHandler.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-11 14:23:29 +0000     4493 bytes  lib/service/WeinreClientCommands.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-11 14:23:29 +0000     2888 bytes  lib/service/WeinreTargetCommands.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-11 14:23:29 +0000     2494 bytes  lib/serviceManager.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-11 14:23:29 +0000     4813 bytes  lib/utils.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-11 14:23:29 +0000     6270 bytes  lib/weinre.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-11 14:23:29 +0000     2306 bytes  package.json</tspan>
-<tspan x="10" y="666"> 40.  2017-04-11 14:23:29 +0000    11047 bytes  web/client/ApplicationCacheItemsView.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-11 14:23:29 +0000     4000 bytes  web/client/AuditCategories.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-11 14:23:29 +0000     3231 bytes  web/client/AuditFormatters.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-11 14:23:29 +0000    10934 bytes  web/client/AuditLauncherView.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-11 14:23:29 +0000     4695 bytes  web/client/AuditResultView.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-11 14:23:29 +0000    43041 bytes  web/client/AuditRules.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-11 14:23:29 +0000    13055 bytes  web/client/AuditsPanel.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-11 14:23:29 +0000    10254 bytes  web/client/BottomUpProfileDataGridTree.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-11 14:23:29 +0000     2167 bytes  web/client/Breakpoint.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-11 14:23:29 +0000    22391 bytes  web/client/BreakpointManager.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-11 14:23:29 +0000    24740 bytes  web/client/BreakpointsSidebarPane.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-11 14:23:29 +0000     4199 bytes  web/client/CSSCompletions.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-11 14:23:29 +0000    17188 bytes  web/client/CSSKeywordCompletions.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-11 14:23:29 +0000    19393 bytes  web/client/CSSStyleModel.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-11 14:23:29 +0000     7051 bytes  web/client/CallStackSidebarPane.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-11 14:23:29 +0000     2341 bytes  web/client/Checkbox.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-11 14:23:29 +0000    22918 bytes  web/client/Color.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-11 14:23:29 +0000     3653 bytes  web/client/ConsolePanel.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-11 14:23:29 +0000    44788 bytes  web/client/ConsoleView.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-11 14:23:29 +0000     3359 bytes  web/client/ContextMenu.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-11 14:23:29 +0000     7324 bytes  web/client/CookieItemsView.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-11 14:23:29 +0000     7273 bytes  web/client/CookieParser.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-11 14:23:29 +0000     7609 bytes  web/client/CookiesTable.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-11 14:23:29 +0000    17505 bytes  web/client/DOMAgent.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-11 14:23:29 +0000     3103 bytes  web/client/DOMStorage.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-11 14:23:29 +0000     5153 bytes  web/client/DOMStorageItemsView.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-11 14:23:29 +0000     3431 bytes  web/client/DOMSyntaxHighlighter.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-11 14:23:29 +0000    48601 bytes  web/client/DataGrid.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-11 14:23:29 +0000     4449 bytes  web/client/Database.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-11 14:23:29 +0000     7029 bytes  web/client/DatabaseQueryView.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-11 14:23:29 +0000     3440 bytes  web/client/DatabaseTableView.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-11 14:23:29 +0000    14598 bytes  web/client/DebuggerModel.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-11 14:23:29 +0000     3189 bytes  web/client/DetailedHeapshotView.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-11 14:23:29 +0000    13800 bytes  web/client/Drawer.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-11 14:23:29 +0000    38235 bytes  web/client/ElementsPanel.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-11 14:23:29 +0000    53672 bytes  web/client/ElementsTreeOutline.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-11 14:23:29 +0000     9469 bytes  web/client/EventListenersSidebarPane.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-11 14:23:29 +0000    15183 bytes  web/client/ExtensionAPI.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-11 14:23:29 +0000    16888 bytes  web/client/ExtensionAPISchema.json</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-11 14:23:29 +0000     3588 bytes  web/client/ExtensionAuditCategory.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-11 14:23:29 +0000     1908 bytes  web/client/ExtensionCommon.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-11 14:23:29 +0000     4423 bytes  web/client/ExtensionPanel.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-11 14:23:29 +0000      986 bytes  web/client/ExtensionRegistryStub.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-11 14:23:29 +0000    17049 bytes  web/client/ExtensionServer.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-11 14:23:29 +0000     4615 bytes  web/client/FontView.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-11 14:23:29 +0000     4578 bytes  web/client/GoToLineDialog.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-11 14:23:29 +0000     8019 bytes  web/client/HAREntry.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-11 14:23:29 +0000    27945 bytes  web/client/HeapSnapshot.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-11 14:23:29 +0000    38172 bytes  web/client/HeapSnapshotView.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-11 14:23:29 +0000     3619 bytes  web/client/HelpScreen.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-11 14:23:29 +0000     5039 bytes  web/client/ImageView.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-11 14:23:29 +0000     1964 bytes  web/client/Images/applicationCache.png</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-11 14:23:29 +0000     3997 bytes  web/client/Images/auditsIcon.png</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-11 14:23:29 +0000     4205 bytes  web/client/Images/back.png</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-11 14:23:29 +0000      377 bytes  web/client/Images/breakpointBorder.png</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-11 14:23:29 +0000      379 bytes  web/client/Images/breakpointConditionalBorder.pn\</tspan>
+<tspan x="10" y="26">  0.  2017-04-11 14:25:33 +0000  5339831 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-11 14:25:33 +0000    26369 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-11 14:25:33 +0000      170 bytes  NOTICE</tspan>
+<tspan x="10" y="74">  3.  2017-04-11 14:25:33 +0000     2125 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-11 14:25:33 +0000      135 bytes  build-info.txt</tspan>
+<tspan x="10" y="106">  5.  2017-04-11 14:25:33 +0000     1421 bytes  interfaces/WeinreClientCommands.idl</tspan>
+<tspan x="10" y="122">  6.  2017-04-11 14:25:33 +0000     1357 bytes  interfaces/WeinreClientEvents.idl</tspan>
+<tspan x="10" y="138">  7.  2017-04-11 14:25:33 +0000      987 bytes  interfaces/WeinreExtraClientCommands.idl</tspan>
+<tspan x="10" y="154">  8.  2017-04-11 14:25:33 +0000      983 bytes  interfaces/WeinreExtraTargetEvents.idl</tspan>
+<tspan x="10" y="170">  9.  2017-04-11 14:25:33 +0000     1228 bytes  interfaces/WeinreTargetCommands.idl</tspan>
+<tspan x="10" y="186"> 10.  2017-04-11 14:25:33 +0000     1113 bytes  interfaces/WeinreTargetEvents.idl</tspan>
+<tspan x="10" y="202"> 11.  2017-04-11 14:25:33 +0000     4204 bytes  lib-src/Channel.coffee</tspan>
+<tspan x="10" y="218"> 12.  2017-04-11 14:25:33 +0000     5650 bytes  lib-src/HttpChannelHandler.coffee</tspan>
+<tspan x="10" y="234"> 13.  2017-04-11 14:25:33 +0000     2933 bytes  lib-src/MessageQueue.coffee</tspan>
+<tspan x="10" y="250"> 14.  2017-04-11 14:25:33 +0000     4713 bytes  lib-src/channelManager.coffee</tspan>
+<tspan x="10" y="266"> 15.  2017-04-11 14:25:33 +0000     4184 bytes  lib-src/cli.coffee</tspan>
+<tspan x="10" y="282"> 16.  2017-04-11 14:25:33 +0000     2867 bytes  lib-src/dumpingHandler.coffee</tspan>
+<tspan x="10" y="298"> 17.  2017-04-11 14:25:33 +0000     1355 bytes  lib-src/extensionManager.coffee</tspan>
+<tspan x="10" y="314"> 18.  2017-04-11 14:25:33 +0000     1782 bytes  lib-src/jsonBodyParser.coffee</tspan>
+<tspan x="10" y="330"> 19.  2017-04-11 14:25:33 +0000     2627 bytes  lib-src/messageHandler.coffee</tspan>
+<tspan x="10" y="346"> 20.  2017-04-11 14:25:33 +0000     5174 bytes  lib-src/service/WeinreClientCommands.coffee</tspan>
+<tspan x="10" y="362"> 21.  2017-04-11 14:25:33 +0000     4064 bytes  lib-src/service/WeinreTargetCommands.coffee</tspan>
+<tspan x="10" y="378"> 22.  2017-04-11 14:25:33 +0000     3291 bytes  lib-src/serviceManager.coffee</tspan>
+<tspan x="10" y="394"> 23.  2017-04-11 14:25:33 +0000     6221 bytes  lib-src/utils.coffee</tspan>
+<tspan x="10" y="410"> 24.  2017-04-11 14:25:33 +0000     7072 bytes  lib-src/weinre.coffee</tspan>
+<tspan x="10" y="426"> 25.  2017-04-11 14:25:33 +0000     3446 bytes  lib/Channel.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-11 14:25:33 +0000     4124 bytes  lib/HttpChannelHandler.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-11 14:25:33 +0000     1838 bytes  lib/MessageQueue.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-11 14:25:33 +0000     3677 bytes  lib/channelManager.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-11 14:25:33 +0000     3221 bytes  lib/cli.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-11 14:25:33 +0000     2205 bytes  lib/dumpingHandler.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-11 14:25:33 +0000      285 bytes  lib/extensionManager.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-11 14:25:33 +0000      808 bytes  lib/jsonBodyParser.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-11 14:25:33 +0000     1620 bytes  lib/messageHandler.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-11 14:25:33 +0000     4493 bytes  lib/service/WeinreClientCommands.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-11 14:25:33 +0000     2888 bytes  lib/service/WeinreTargetCommands.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-11 14:25:33 +0000     2494 bytes  lib/serviceManager.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-11 14:25:33 +0000     4813 bytes  lib/utils.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-11 14:25:33 +0000     6270 bytes  lib/weinre.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-11 14:25:33 +0000     2306 bytes  package.json</tspan>
+<tspan x="10" y="666"> 40.  2017-04-11 14:25:33 +0000    11047 bytes  web/client/ApplicationCacheItemsView.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-11 14:25:33 +0000     4000 bytes  web/client/AuditCategories.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-11 14:25:33 +0000     3231 bytes  web/client/AuditFormatters.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-11 14:25:33 +0000    10934 bytes  web/client/AuditLauncherView.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-11 14:25:33 +0000     4695 bytes  web/client/AuditResultView.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-11 14:25:33 +0000    43041 bytes  web/client/AuditRules.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-11 14:25:33 +0000    13055 bytes  web/client/AuditsPanel.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-11 14:25:33 +0000    10254 bytes  web/client/BottomUpProfileDataGridTree.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-11 14:25:33 +0000     2167 bytes  web/client/Breakpoint.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-11 14:25:33 +0000    22391 bytes  web/client/BreakpointManager.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-11 14:25:33 +0000    24740 bytes  web/client/BreakpointsSidebarPane.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-11 14:25:33 +0000     4199 bytes  web/client/CSSCompletions.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-11 14:25:33 +0000    17188 bytes  web/client/CSSKeywordCompletions.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-11 14:25:33 +0000    19393 bytes  web/client/CSSStyleModel.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-11 14:25:33 +0000     7051 bytes  web/client/CallStackSidebarPane.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-11 14:25:33 +0000     2341 bytes  web/client/Checkbox.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-11 14:25:33 +0000    22918 bytes  web/client/Color.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-11 14:25:33 +0000     3653 bytes  web/client/ConsolePanel.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-11 14:25:33 +0000    44788 bytes  web/client/ConsoleView.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-11 14:25:33 +0000     3359 bytes  web/client/ContextMenu.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-11 14:25:33 +0000     7324 bytes  web/client/CookieItemsView.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-11 14:25:33 +0000     7273 bytes  web/client/CookieParser.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-11 14:25:33 +0000     7609 bytes  web/client/CookiesTable.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-11 14:25:33 +0000    17505 bytes  web/client/DOMAgent.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-11 14:25:33 +0000     3103 bytes  web/client/DOMStorage.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-11 14:25:33 +0000     5153 bytes  web/client/DOMStorageItemsView.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-11 14:25:33 +0000     3431 bytes  web/client/DOMSyntaxHighlighter.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-11 14:25:33 +0000    48601 bytes  web/client/DataGrid.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-11 14:25:33 +0000     4449 bytes  web/client/Database.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-11 14:25:33 +0000     7029 bytes  web/client/DatabaseQueryView.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-11 14:25:33 +0000     3440 bytes  web/client/DatabaseTableView.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-11 14:25:33 +0000    14598 bytes  web/client/DebuggerModel.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-11 14:25:33 +0000     3189 bytes  web/client/DetailedHeapshotView.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-11 14:25:33 +0000    13800 bytes  web/client/Drawer.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-11 14:25:33 +0000    38235 bytes  web/client/ElementsPanel.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-11 14:25:33 +0000    53672 bytes  web/client/ElementsTreeOutline.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-11 14:25:33 +0000     9469 bytes  web/client/EventListenersSidebarPane.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-11 14:25:33 +0000    15183 bytes  web/client/ExtensionAPI.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-11 14:25:33 +0000    16888 bytes  web/client/ExtensionAPISchema.json</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-11 14:25:33 +0000     3588 bytes  web/client/ExtensionAuditCategory.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-11 14:25:33 +0000     1908 bytes  web/client/ExtensionCommon.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-11 14:25:33 +0000     4423 bytes  web/client/ExtensionPanel.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-11 14:25:33 +0000      986 bytes  web/client/ExtensionRegistryStub.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-11 14:25:33 +0000    17049 bytes  web/client/ExtensionServer.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-11 14:25:33 +0000     4615 bytes  web/client/FontView.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-11 14:25:33 +0000     4578 bytes  web/client/GoToLineDialog.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-11 14:25:33 +0000     8019 bytes  web/client/HAREntry.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-11 14:25:33 +0000    27945 bytes  web/client/HeapSnapshot.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-11 14:25:33 +0000    38172 bytes  web/client/HeapSnapshotView.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-11 14:25:33 +0000     3619 bytes  web/client/HelpScreen.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-11 14:25:33 +0000     5039 bytes  web/client/ImageView.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-11 14:25:33 +0000     1964 bytes  web/client/Images/applicationCache.png</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-11 14:25:33 +0000     3997 bytes  web/client/Images/auditsIcon.png</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-11 14:25:33 +0000     4205 bytes  web/client/Images/back.png</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-11 14:25:33 +0000      377 bytes  web/client/Images/breakpointBorder.png</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-11 14:25:33 +0000      379 bytes  web/client/Images/breakpointConditionalBorder.pn\</tspan>
 <tspan x="10" y="1562">g</tspan>
-<tspan x="10" y="1578"> 96.  2017-04-11 14:23:29 +0000      529 bytes  web/client/Images/breakpointConditionalCounterBo\</tspan>
+<tspan x="10" y="1578"> 96.  2017-04-11 14:25:33 +0000      529 bytes  web/client/Images/breakpointConditionalCounterBo\</tspan>
 <tspan x="10" y="1594">rder.png</tspan>
-<tspan x="10" y="1610"> 97.  2017-04-11 14:23:29 +0000      526 bytes  web/client/Images/breakpointCounterBorder.png</tspan>
-<tspan x="10" y="1626"> 98.  2017-04-11 14:23:29 +0000      250 bytes  web/client/Images/breakpointsActivateButtonGlyph\</tspan>
+<tspan x="10" y="1610"> 97.  2017-04-11 14:25:33 +0000      526 bytes  web/client/Images/breakpointCounterBorder.png</tspan>
+<tspan x="10" y="1626"> 98.  2017-04-11 14:25:33 +0000      250 bytes  web/client/Images/breakpointsActivateButtonGlyph\</tspan>
 <tspan x="10" y="1642">.png</tspan>
-<tspan x="10" y="1658"> 99.  2017-04-11 14:23:29 +0000      426 bytes  web/client/Images/breakpointsDeactivateButtonGly\</tspan>
+<tspan x="10" y="1658"> 99.  2017-04-11 14:25:33 +0000      426 bytes  web/client/Images/breakpointsDeactivateButtonGly\</tspan>
 <tspan x="10" y="1674">ph.png</tspan>
-<tspan x="10" y="1690">100.  2017-04-11 14:23:29 +0000     3471 bytes  web/client/Images/checker.png</tspan>
-<tspan x="10" y="1706">101.  2017-04-11 14:23:29 +0000      396 bytes  web/client/Images/clearConsoleButtonGlyph.png</tspan>
-<tspan x="10" y="1722">102.  2017-04-11 14:23:29 +0000     4355 bytes  web/client/Images/closeButtons.png</tspan>
-<tspan x="10" y="1738">103.  2017-04-11 14:23:29 +0000      183 bytes  web/client/Images/consoleButtonGlyph.png</tspan>
-<tspan x="10" y="1754">104.  2017-04-11 14:23:29 +0000     2930 bytes  web/client/Images/consoleIcon.png</tspan>
-<tspan x="10" y="1770">105.  2017-04-11 14:23:29 +0000     2246 bytes  web/client/Images/cookie.png</tspan>
-<tspan x="10" y="1786">106.  2017-04-11 14:23:29 +0000     2329 bytes  web/client/Images/database.png</tspan>
-<tspan x="10" y="1802">107.  2017-04-11 14:23:29 +0000     4325 bytes  web/client/Images/databaseTable.png</tspan>
-<tspan x="10" y="1818">108.  2017-04-11 14:23:29 +0000     4190 bytes  web/client/Images/debuggerContinue.png</tspan>
-<tspan x="10" y="1834">109.  2017-04-11 14:23:29 +0000     4081 bytes  web/client/Images/debuggerPause.png</tspan>
-<tspan x="10" y="1850">110.  2017-04-11 14:23:29 +0000     4282 bytes  web/client/Images/debuggerStepInto.png</tspan>
-<tspan x="10" y="1866">111.  2017-04-11 14:23:29 +0000     4271 bytes  web/client/Images/debuggerStepOut.png</tspan>
-<tspan x="10" y="1882">112.  2017-04-11 14:23:29 +0000     4366 bytes  web/client/Images/debuggerStepOver.png</tspan>
-<tspan x="10" y="1898">113.  2017-04-11 14:23:29 +0000     3919 bytes  web/client/Images/disclosureTriangleSmallDown.pn\</tspan>
+<tspan x="10" y="1690">100.  2017-04-11 14:25:33 +0000     3471 bytes  web/client/Images/checker.png</tspan>
+<tspan x="10" y="1706">101.  2017-04-11 14:25:33 +0000      396 bytes  web/client/Images/clearConsoleButtonGlyph.png</tspan>
+<tspan x="10" y="1722">102.  2017-04-11 14:25:33 +0000     4355 bytes  web/client/Images/closeButtons.png</tspan>
+<tspan x="10" y="1738">103.  2017-04-11 14:25:33 +0000      183 bytes  web/client/Images/consoleButtonGlyph.png</tspan>
+<tspan x="10" y="1754">104.  2017-04-11 14:25:33 +0000     2930 bytes  web/client/Images/consoleIcon.png</tspan>
+<tspan x="10" y="1770">105.  2017-04-11 14:25:33 +0000     2246 bytes  web/client/Images/cookie.png</tspan>
+<tspan x="10" y="1786">106.  2017-04-11 14:25:33 +0000     2329 bytes  web/client/Images/database.png</tspan>
+<tspan x="10" y="1802">107.  2017-04-11 14:25:33 +0000     4325 bytes  web/client/Images/databaseTable.png</tspan>
+<tspan x="10" y="1818">108.  2017-04-11 14:25:33 +0000     4190 bytes  web/client/Images/debuggerContinue.png</tspan>
+<tspan x="10" y="1834">109.  2017-04-11 14:25:33 +0000     4081 bytes  web/client/Images/debuggerPause.png</tspan>
+<tspan x="10" y="1850">110.  2017-04-11 14:25:33 +0000     4282 bytes  web/client/Images/debuggerStepInto.png</tspan>
+<tspan x="10" y="1866">111.  2017-04-11 14:25:33 +0000     4271 bytes  web/client/Images/debuggerStepOut.png</tspan>
+<tspan x="10" y="1882">112.  2017-04-11 14:25:33 +0000     4366 bytes  web/client/Images/debuggerStepOver.png</tspan>
+<tspan x="10" y="1898">113.  2017-04-11 14:25:33 +0000     3919 bytes  web/client/Images/disclosureTriangleSmallDown.pn\</tspan>
 <tspan x="10" y="1914">g</tspan>
-<tspan x="10" y="1930">114.  2017-04-11 14:23:29 +0000     3802 bytes  web/client/Images/disclosureTriangleSmallDownBla\</tspan>
+<tspan x="10" y="1930">114.  2017-04-11 14:25:33 +0000     3802 bytes  web/client/Images/disclosureTriangleSmallDownBla\</tspan>
 <tspan x="10" y="1946">ck.png</tspan>
-<tspan x="10" y="1962">115.  2017-04-11 14:23:29 +0000     3820 bytes  web/client/Images/disclosureTriangleSmallDownWhi\</tspan>
+<tspan x="10" y="1962">115.  2017-04-11 14:25:33 +0000     3820 bytes  web/client/Images/disclosureTriangleSmallDownWhi\</tspan>
 <tspan x="10" y="1978">te.png</tspan>
-<tspan x="10" y="1994">116.  2017-04-11 14:23:29 +0000     3898 bytes  web/client/Images/disclosureTriangleSmallRight.p\</tspan>
+<tspan x="10" y="1994">116.  2017-04-11 14:25:33 +0000     3898 bytes  web/client/Images/disclosureTriangleSmallRight.p\</tspan>
 <tspan x="10" y="2010">ng</tspan>
-<tspan x="10" y="2026">117.  2017-04-11 14:23:29 +0000     3807 bytes  web/client/Images/disclosureTriangleSmallRightBl\</tspan>
+<tspan x="10" y="2026">117.  2017-04-11 14:25:33 +0000     3807 bytes  web/client/Images/disclosureTriangleSmallRightBl\</tspan>
 <tspan x="10" y="2042">ack.png</tspan>
-<tspan x="10" y="2058">118.  2017-04-11 14:23:29 +0000     3953 bytes  web/client/Images/disclosureTriangleSmallRightDo\</tspan>
+<tspan x="10" y="2058">118.  2017-04-11 14:25:33 +0000     3953 bytes  web/client/Images/disclosureTriangleSmallRightDo\</tspan>
 <tspan x="10" y="2074">wn.png</tspan>
-<tspan x="10" y="2090">119.  2017-04-11 14:23:29 +0000     3816 bytes  web/client/Images/disclosureTriangleSmallRightDo\</tspan>
+<tspan x="10" y="2090">119.  2017-04-11 14:25:33 +0000     3816 bytes  web/client/Images/disclosureTriangleSmallRightDo\</tspan>
 <tspan x="10" y="2106">wnBlack.png</tspan>
-<tspan x="10" y="2122">120.  2017-04-11 14:23:29 +0000     3838 bytes  web/client/Images/disclosureTriangleSmallRightDo\</tspan>
+<tspan x="10" y="2122">120.  2017-04-11 14:25:33 +0000     3838 bytes  web/client/Images/disclosureTriangleSmallRightDo\</tspan>
 <tspan x="10" y="2138">wnWhite.png</tspan>
-<tspan x="10" y="2154">121.  2017-04-11 14:23:29 +0000     3818 bytes  web/client/Images/disclosureTriangleSmallRightWh\</tspan>
+<tspan x="10" y="2154">121.  2017-04-11 14:25:33 +0000     3818 bytes  web/client/Images/disclosureTriangleSmallRightWh\</tspan>
 <tspan x="10" y="2170">ite.png</tspan>
-<tspan x="10" y="2186">122.  2017-04-11 14:23:29 +0000      164 bytes  web/client/Images/dockButtonGlyph.png</tspan>
-<tspan x="10" y="2202">123.  2017-04-11 14:23:29 +0000     6639 bytes  web/client/Images/elementsIcon.png</tspan>
-<tspan x="10" y="2218">124.  2017-04-11 14:23:29 +0000      363 bytes  web/client/Images/enableOutlineButtonGlyph.png</tspan>
-<tspan x="10" y="2234">125.  2017-04-11 14:23:29 +0000      302 bytes  web/client/Images/enableSolidButtonGlyph.png</tspan>
-<tspan x="10" y="2250">126.  2017-04-11 14:23:29 +0000     4337 bytes  web/client/Images/errorIcon.png</tspan>
-<tspan x="10" y="2266">127.  2017-04-11 14:23:29 +0000     4059 bytes  web/client/Images/errorMediumIcon.png</tspan>
-<tspan x="10" y="2282">128.  2017-04-11 14:23:29 +0000      549 bytes  web/client/Images/errorRedDot.png</tspan>
-<tspan x="10" y="2298">129.  2017-04-11 14:23:29 +0000      212 bytes  web/client/Images/excludeButtonGlyph.png</tspan>
-<tspan x="10" y="2314">130.  2017-04-11 14:23:29 +0000      285 bytes  web/client/Images/focusButtonGlyph.png</tspan>
-<tspan x="10" y="2330">131.  2017-04-11 14:23:29 +0000     4202 bytes  web/client/Images/forward.png</tspan>
-<tspan x="10" y="2346">132.  2017-04-11 14:23:29 +0000      448 bytes  web/client/Images/frame.png</tspan>
-<tspan x="10" y="2362">133.  2017-04-11 14:23:29 +0000      323 bytes  web/client/Images/gearButtonGlyph.png</tspan>
-<tspan x="10" y="2378">134.  2017-04-11 14:23:29 +0000     3720 bytes  web/client/Images/glossyHeader.png</tspan>
-<tspan x="10" y="2394">135.  2017-04-11 14:23:29 +0000     3721 bytes  web/client/Images/glossyHeaderPressed.png</tspan>
-<tspan x="10" y="2410">136.  2017-04-11 14:23:29 +0000     3738 bytes  web/client/Images/glossyHeaderSelected.png</tspan>
-<tspan x="10" y="2426">137.  2017-04-11 14:23:29 +0000     3739 bytes  web/client/Images/glossyHeaderSelectedPressed.pn\</tspan>
+<tspan x="10" y="2186">122.  2017-04-11 14:25:33 +0000      164 bytes  web/client/Images/dockButtonGlyph.png</tspan>
+<tspan x="10" y="2202">123.  2017-04-11 14:25:33 +0000     6639 bytes  web/client/Images/elementsIcon.png</tspan>
+<tspan x="10" y="2218">124.  2017-04-11 14:25:33 +0000      363 bytes  web/client/Images/enableOutlineButtonGlyph.png</tspan>
+<tspan x="10" y="2234">125.  2017-04-11 14:25:33 +0000      302 bytes  web/client/Images/enableSolidButtonGlyph.png</tspan>
+<tspan x="10" y="2250">126.  2017-04-11 14:25:33 +0000     4337 bytes  web/client/Images/errorIcon.png</tspan>
+<tspan x="10" y="2266">127.  2017-04-11 14:25:33 +0000     4059 bytes  web/client/Images/errorMediumIcon.png</tspan>
+<tspan x="10" y="2282">128.  2017-04-11 14:25:33 +0000      549 bytes  web/client/Images/errorRedDot.png</tspan>
+<tspan x="10" y="2298">129.  2017-04-11 14:25:33 +0000      212 bytes  web/client/Images/excludeButtonGlyph.png</tspan>
+<tspan x="10" y="2314">130.  2017-04-11 14:25:33 +0000      285 bytes  web/client/Images/focusButtonGlyph.png</tspan>
+<tspan x="10" y="2330">131.  2017-04-11 14:25:33 +0000     4202 bytes  web/client/Images/forward.png</tspan>
+<tspan x="10" y="2346">132.  2017-04-11 14:25:33 +0000      448 bytes  web/client/Images/frame.png</tspan>
+<tspan x="10" y="2362">133.  2017-04-11 14:25:33 +0000      323 bytes  web/client/Images/gearButtonGlyph.png</tspan>
+<tspan x="10" y="2378">134.  2017-04-11 14:25:33 +0000     3720 bytes  web/client/Images/glossyHeader.png</tspan>
+<tspan x="10" y="2394">135.  2017-04-11 14:25:33 +0000     3721 bytes  web/client/Images/glossyHeaderPressed.png</tspan>
+<tspan x="10" y="2410">136.  2017-04-11 14:25:33 +0000     3738 bytes  web/client/Images/glossyHeaderSelected.png</tspan>
+<tspan x="10" y="2426">137.  2017-04-11 14:25:33 +0000     3739 bytes  web/client/Images/glossyHeaderSelectedPressed.pn\</tspan>
 <tspan x="10" y="2442">g</tspan>
-<tspan x="10" y="2458">138.  2017-04-11 14:23:29 +0000     3591 bytes  web/client/Images/goArrow.png</tspan>
-<tspan x="10" y="2474">139.  2017-04-11 14:23:29 +0000     3790 bytes  web/client/Images/graphLabelCalloutLeft.png</tspan>
-<tspan x="10" y="2490">140.  2017-04-11 14:23:29 +0000     3789 bytes  web/client/Images/graphLabelCalloutRight.png</tspan>
-<tspan x="10" y="2506">141.  2017-04-11 14:23:29 +0000      192 bytes  web/client/Images/largerResourcesButtonGlyph.png</tspan>
-<tspan x="10" y="2522">142.  2017-04-11 14:23:29 +0000     1081 bytes  web/client/Images/localStorage.png</tspan>
-<tspan x="10" y="2538">143.  2017-04-11 14:23:29 +0000     4628 bytes  web/client/Images/networkIcon.png</tspan>
-<tspan x="10" y="2554">144.  2017-04-11 14:23:29 +0000      283 bytes  web/client/Images/nodeSearchButtonGlyph.png</tspan>
-<tspan x="10" y="2570">145.  2017-04-11 14:23:29 +0000      929 bytes  web/client/Images/paneAddButtons.png</tspan>
-<tspan x="10" y="2586">146.  2017-04-11 14:23:29 +0000     3457 bytes  web/client/Images/paneBottomGrow.png</tspan>
-<tspan x="10" y="2602">147.  2017-04-11 14:23:29 +0000     3457 bytes  web/client/Images/paneBottomGrowActive.png</tspan>
-<tspan x="10" y="2618">148.  2017-04-11 14:23:29 +0000     3443 bytes  web/client/Images/paneGrowHandleLine.png</tspan>
-<tspan x="10" y="2634">149.  2017-04-11 14:23:29 +0000     1422 bytes  web/client/Images/paneSettingsButtons.png</tspan>
-<tspan x="10" y="2650">150.  2017-04-11 14:23:29 +0000      331 bytes  web/client/Images/pauseOnExceptionButtonGlyph.pn\</tspan>
+<tspan x="10" y="2458">138.  2017-04-11 14:25:33 +0000     3591 bytes  web/client/Images/goArrow.png</tspan>
+<tspan x="10" y="2474">139.  2017-04-11 14:25:33 +0000     3790 bytes  web/client/Images/graphLabelCalloutLeft.png</tspan>
+<tspan x="10" y="2490">140.  2017-04-11 14:25:33 +0000     3789 bytes  web/client/Images/graphLabelCalloutRight.png</tspan>
+<tspan x="10" y="2506">141.  2017-04-11 14:25:33 +0000      192 bytes  web/client/Images/largerResourcesButtonGlyph.png</tspan>
+<tspan x="10" y="2522">142.  2017-04-11 14:25:33 +0000     1081 bytes  web/client/Images/localStorage.png</tspan>
+<tspan x="10" y="2538">143.  2017-04-11 14:25:33 +0000     4628 bytes  web/client/Images/networkIcon.png</tspan>
+<tspan x="10" y="2554">144.  2017-04-11 14:25:33 +0000      283 bytes  web/client/Images/nodeSearchButtonGlyph.png</tspan>
+<tspan x="10" y="2570">145.  2017-04-11 14:25:33 +0000      929 bytes  web/client/Images/paneAddButtons.png</tspan>
+<tspan x="10" y="2586">146.  2017-04-11 14:25:33 +0000     3457 bytes  web/client/Images/paneBottomGrow.png</tspan>
+<tspan x="10" y="2602">147.  2017-04-11 14:25:33 +0000     3457 bytes  web/client/Images/paneBottomGrowActive.png</tspan>
+<tspan x="10" y="2618">148.  2017-04-11 14:25:33 +0000     3443 bytes  web/client/Images/paneGrowHandleLine.png</tspan>
+<tspan x="10" y="2634">149.  2017-04-11 14:25:33 +0000     1422 bytes  web/client/Images/paneSettingsButtons.png</tspan>
+<tspan x="10" y="2650">150.  2017-04-11 14:25:33 +0000      331 bytes  web/client/Images/pauseOnExceptionButtonGlyph.pn\</tspan>
 <tspan x="10" y="2666">g</tspan>
-<tspan x="10" y="2682">151.  2017-04-11 14:23:29 +0000      357 bytes  web/client/Images/percentButtonGlyph.png</tspan>
-<tspan x="10" y="2698">152.  2017-04-11 14:23:29 +0000      784 bytes  web/client/Images/popoverArrows.png</tspan>
-<tspan x="10" y="2714">153.  2017-04-11 14:23:29 +0000     2233 bytes  web/client/Images/popoverBackground.png</tspan>
-<tspan x="10" y="2730">154.  2017-04-11 14:23:29 +0000     5126 bytes  web/client/Images/profileGroupIcon.png</tspan>
-<tspan x="10" y="2746">155.  2017-04-11 14:23:29 +0000     4953 bytes  web/client/Images/profileIcon.png</tspan>
-<tspan x="10" y="2762">156.  2017-04-11 14:23:29 +0000      579 bytes  web/client/Images/profileSmallIcon.png</tspan>
-<tspan x="10" y="2778">157.  2017-04-11 14:23:29 +0000     4158 bytes  web/client/Images/profilesIcon.png</tspan>
-<tspan x="10" y="2794">158.  2017-04-11 14:23:29 +0000    48600 bytes  web/client/Images/profilesSilhouette.png</tspan>
-<tspan x="10" y="2810">159.  2017-04-11 14:23:29 +0000      352 bytes  web/client/Images/programCounterBorder.png</tspan>
-<tspan x="10" y="2826">160.  2017-04-11 14:23:29 +0000      235 bytes  web/client/Images/radioDot.png</tspan>
-<tspan x="10" y="2842">161.  2017-04-11 14:23:29 +0000      213 bytes  web/client/Images/recordButtonGlyph.png</tspan>
-<tspan x="10" y="2858">162.  2017-04-11 14:23:29 +0000      510 bytes  web/client/Images/recordToggledButtonGlyph.png</tspan>
-<tspan x="10" y="2874">163.  2017-04-11 14:23:29 +0000      267 bytes  web/client/Images/reloadButtonGlyph.png</tspan>
-<tspan x="10" y="2890">164.  2017-04-11 14:23:29 +0000     1066 bytes  web/client/Images/resourceCSSIcon.png</tspan>
-<tspan x="10" y="2906">165.  2017-04-11 14:23:29 +0000     4959 bytes  web/client/Images/resourceDocumentIcon.png</tspan>
-<tspan x="10" y="2922">166.  2017-04-11 14:23:29 +0000      787 bytes  web/client/Images/resourceDocumentIconSmall.png</tspan>
-<tspan x="10" y="2938">167.  2017-04-11 14:23:29 +0000      879 bytes  web/client/Images/resourceJSIcon.png</tspan>
-<tspan x="10" y="2954">168.  2017-04-11 14:23:29 +0000     4321 bytes  web/client/Images/resourcePlainIcon.png</tspan>
-<tspan x="10" y="2970">169.  2017-04-11 14:23:29 +0000      731 bytes  web/client/Images/resourcePlainIconSmall.png</tspan>
-<tspan x="10" y="2986">170.  2017-04-11 14:23:29 +0000     6431 bytes  web/client/Images/resourcesIcon.png</tspan>
-<tspan x="10" y="3002">171.  2017-04-11 14:23:29 +0000     5606 bytes  web/client/Images/resourcesSizeGraphIcon.png</tspan>
-<tspan x="10" y="3018">172.  2017-04-11 14:23:29 +0000     5743 bytes  web/client/Images/resourcesTimeGraphIcon.png</tspan>
-<tspan x="10" y="3034">173.  2017-04-11 14:23:29 +0000     7428 bytes  web/client/Images/scriptsIcon.png</tspan>
-<tspan x="10" y="3050">174.  2017-04-11 14:23:29 +0000    49028 bytes  web/client/Images/scriptsSilhouette.png</tspan>
-<tspan x="10" y="3066">175.  2017-04-11 14:23:29 +0000     3968 bytes  web/client/Images/searchSmallBlue.png</tspan>
-<tspan x="10" y="3082">176.  2017-04-11 14:23:29 +0000     3966 bytes  web/client/Images/searchSmallBrightBlue.png</tspan>
-<tspan x="10" y="3098">177.  2017-04-11 14:23:29 +0000     3936 bytes  web/client/Images/searchSmallGray.png</tspan>
-<tspan x="10" y="3114">178.  2017-04-11 14:23:29 +0000     3844 bytes  web/client/Images/searchSmallWhite.png</tspan>
-<tspan x="10" y="3130">179.  2017-04-11 14:23:29 +0000     4349 bytes  web/client/Images/segment.png</tspan>
-<tspan x="10" y="3146">180.  2017-04-11 14:23:29 +0000     4070 bytes  web/client/Images/segmentEnd.png</tspan>
-<tspan x="10" y="3162">181.  2017-04-11 14:23:29 +0000     4310 bytes  web/client/Images/segmentHover.png</tspan>
-<tspan x="10" y="3178">182.  2017-04-11 14:23:29 +0000     4074 bytes  web/client/Images/segmentHoverEnd.png</tspan>
-<tspan x="10" y="3194">183.  2017-04-11 14:23:29 +0000     4302 bytes  web/client/Images/segmentSelected.png</tspan>
-<tspan x="10" y="3210">184.  2017-04-11 14:23:29 +0000     4070 bytes  web/client/Images/segmentSelectedEnd.png</tspan>
-<tspan x="10" y="3226">185.  2017-04-11 14:23:29 +0000     1097 bytes  web/client/Images/sessionStorage.png</tspan>
-<tspan x="10" y="3242">186.  2017-04-11 14:23:29 +0000     1684 bytes  web/client/Images/spinner.gif</tspan>
-<tspan x="10" y="3258">187.  2017-04-11 14:23:29 +0000      216 bytes  web/client/Images/splitviewDimple.png</tspan>
-<tspan x="10" y="3274">188.  2017-04-11 14:23:29 +0000      149 bytes  web/client/Images/splitviewDividerBackground.png</tspan>
-<tspan x="10" y="3290">189.  2017-04-11 14:23:29 +0000     4024 bytes  web/client/Images/statusbarBackground.png</tspan>
-<tspan x="10" y="3306">190.  2017-04-11 14:23:29 +0000     4021 bytes  web/client/Images/statusbarBottomBackground.png</tspan>
-<tspan x="10" y="3322">191.  2017-04-11 14:23:29 +0000     4175 bytes  web/client/Images/statusbarButtons.png</tspan>
-<tspan x="10" y="3338">192.  2017-04-11 14:23:29 +0000     4293 bytes  web/client/Images/statusbarMenuButton.png</tspan>
-<tspan x="10" y="3354">193.  2017-04-11 14:23:29 +0000     4291 bytes  web/client/Images/statusbarMenuButtonSelected.pn\</tspan>
+<tspan x="10" y="2682">151.  2017-04-11 14:25:33 +0000      357 bytes  web/client/Images/percentButtonGlyph.png</tspan>
+<tspan x="10" y="2698">152.  2017-04-11 14:25:33 +0000      784 bytes  web/client/Images/popoverArrows.png</tspan>
+<tspan x="10" y="2714">153.  2017-04-11 14:25:33 +0000     2233 bytes  web/client/Images/popoverBackground.png</tspan>
+<tspan x="10" y="2730">154.  2017-04-11 14:25:33 +0000     5126 bytes  web/client/Images/profileGroupIcon.png</tspan>
+<tspan x="10" y="2746">155.  2017-04-11 14:25:33 +0000     4953 bytes  web/client/Images/profileIcon.png</tspan>
+<tspan x="10" y="2762">156.  2017-04-11 14:25:33 +0000      579 bytes  web/client/Images/profileSmallIcon.png</tspan>
+<tspan x="10" y="2778">157.  2017-04-11 14:25:33 +0000     4158 bytes  web/client/Images/profilesIcon.png</tspan>
+<tspan x="10" y="2794">158.  2017-04-11 14:25:33 +0000    48600 bytes  web/client/Images/profilesSilhouette.png</tspan>
+<tspan x="10" y="2810">159.  2017-04-11 14:25:33 +0000      352 bytes  web/client/Images/programCounterBorder.png</tspan>
+<tspan x="10" y="2826">160.  2017-04-11 14:25:33 +0000      235 bytes  web/client/Images/radioDot.png</tspan>
+<tspan x="10" y="2842">161.  2017-04-11 14:25:33 +0000      213 bytes  web/client/Images/recordButtonGlyph.png</tspan>
+<tspan x="10" y="2858">162.  2017-04-11 14:25:33 +0000      510 bytes  web/client/Images/recordToggledButtonGlyph.png</tspan>
+<tspan x="10" y="2874">163.  2017-04-11 14:25:33 +0000      267 bytes  web/client/Images/reloadButtonGlyph.png</tspan>
+<tspan x="10" y="2890">164.  2017-04-11 14:25:33 +0000     1066 bytes  web/client/Images/resourceCSSIcon.png</tspan>
+<tspan x="10" y="2906">165.  2017-04-11 14:25:33 +0000     4959 bytes  web/client/Images/resourceDocumentIcon.png</tspan>
+<tspan x="10" y="2922">166.  2017-04-11 14:25:33 +0000      787 bytes  web/client/Images/resourceDocumentIconSmall.png</tspan>
+<tspan x="10" y="2938">167.  2017-04-11 14:25:33 +0000      879 bytes  web/client/Images/resourceJSIcon.png</tspan>
+<tspan x="10" y="2954">168.  2017-04-11 14:25:33 +0000     4321 bytes  web/client/Images/resourcePlainIcon.png</tspan>
+<tspan x="10" y="2970">169.  2017-04-11 14:25:33 +0000      731 bytes  web/client/Images/resourcePlainIconSmall.png</tspan>
+<tspan x="10" y="2986">170.  2017-04-11 14:25:33 +0000     6431 bytes  web/client/Images/resourcesIcon.png</tspan>
+<tspan x="10" y="3002">171.  2017-04-11 14:25:33 +0000     5606 bytes  web/client/Images/resourcesSizeGraphIcon.png</tspan>
+<tspan x="10" y="3018">172.  2017-04-11 14:25:33 +0000     5743 bytes  web/client/Images/resourcesTimeGraphIcon.png</tspan>
+<tspan x="10" y="3034">173.  2017-04-11 14:25:33 +0000     7428 bytes  web/client/Images/scriptsIcon.png</tspan>
+<tspan x="10" y="3050">174.  2017-04-11 14:25:33 +0000    49028 bytes  web/client/Images/scriptsSilhouette.png</tspan>
+<tspan x="10" y="3066">175.  2017-04-11 14:25:33 +0000     3968 bytes  web/client/Images/searchSmallBlue.png</tspan>
+<tspan x="10" y="3082">176.  2017-04-11 14:25:33 +0000     3966 bytes  web/client/Images/searchSmallBrightBlue.png</tspan>
+<tspan x="10" y="3098">177.  2017-04-11 14:25:33 +0000     3936 bytes  web/client/Images/searchSmallGray.png</tspan>
+<tspan x="10" y="3114">178.  2017-04-11 14:25:33 +0000     3844 bytes  web/client/Images/searchSmallWhite.png</tspan>
+<tspan x="10" y="3130">179.  2017-04-11 14:25:33 +0000     4349 bytes  web/client/Images/segment.png</tspan>
+<tspan x="10" y="3146">180.  2017-04-11 14:25:33 +0000     4070 bytes  web/client/Images/segmentEnd.png</tspan>
+<tspan x="10" y="3162">181.  2017-04-11 14:25:33 +0000     4310 bytes  web/client/Images/segmentHover.png</tspan>
+<tspan x="10" y="3178">182.  2017-04-11 14:25:33 +0000     4074 bytes  web/client/Images/segmentHoverEnd.png</tspan>
+<tspan x="10" y="3194">183.  2017-04-11 14:25:33 +0000     4302 bytes  web/client/Images/segmentSelected.png</tspan>
+<tspan x="10" y="3210">184.  2017-04-11 14:25:33 +0000     4070 bytes  web/client/Images/segmentSelectedEnd.png</tspan>
+<tspan x="10" y="3226">185.  2017-04-11 14:25:33 +0000     1097 bytes  web/client/Images/sessionStorage.png</tspan>
+<tspan x="10" y="3242">186.  2017-04-11 14:25:33 +0000     1684 bytes  web/client/Images/spinner.gif</tspan>
+<tspan x="10" y="3258">187.  2017-04-11 14:25:33 +0000      216 bytes  web/client/Images/splitviewDimple.png</tspan>
+<tspan x="10" y="3274">188.  2017-04-11 14:25:33 +0000      149 bytes  web/client/Images/splitviewDividerBackground.png</tspan>
+<tspan x="10" y="3290">189.  2017-04-11 14:25:33 +0000     4024 bytes  web/client/Images/statusbarBackground.png</tspan>
+<tspan x="10" y="3306">190.  2017-04-11 14:25:33 +0000     4021 bytes  web/client/Images/statusbarBottomBackground.png</tspan>
+<tspan x="10" y="3322">191.  2017-04-11 14:25:33 +0000     4175 bytes  web/client/Images/statusbarButtons.png</tspan>
+<tspan x="10" y="3338">192.  2017-04-11 14:25:33 +0000     4293 bytes  web/client/Images/statusbarMenuButton.png</tspan>
+<tspan x="10" y="3354">193.  2017-04-11 14:25:33 +0000     4291 bytes  web/client/Images/statusbarMenuButtonSelected.pn\</tspan>
 <tspan x="10" y="3370">g</tspan>
-<tspan x="10" y="3386">194.  2017-04-11 14:23:29 +0000     4026 bytes  web/client/Images/statusbarResizerHorizontal.png</tspan>
-<tspan x="10" y="3402">195.  2017-04-11 14:23:29 +0000     4036 bytes  web/client/Images/statusbarResizerVertical.png</tspan>
-<tspan x="10" y="3418">196.  2017-04-11 14:23:29 +0000      585 bytes  web/client/Images/successGreenDot.png</tspan>
-<tspan x="10" y="3434">197.  2017-04-11 14:23:29 +0000      647 bytes  web/client/Images/thumbActiveHoriz.png</tspan>
-<tspan x="10" y="3450">198.  2017-04-11 14:23:29 +0000      599 bytes  web/client/Images/thumbActiveVert.png</tspan>
-<tspan x="10" y="3466">199.  2017-04-11 14:23:29 +0000      657 bytes  web/client/Images/thumbHoriz.png</tspan>
-<tspan x="10" y="3482">200.  2017-04-11 14:23:29 +0000      667 bytes  web/client/Images/thumbHoverHoriz.png</tspan>
-<tspan x="10" y="3498">201.  2017-04-11 14:23:29 +0000      583 bytes  web/client/Images/thumbHoverVert.png</tspan>
-<tspan x="10" y="3514">202.  2017-04-11 14:23:29 +0000      568 bytes  web/client/Images/thumbVert.png</tspan>
-<tspan x="10" y="3530">203.  2017-04-11 14:23:29 +0000      419 bytes  web/client/Images/timelineBarBlue.png</tspan>
-<tspan x="10" y="3546">204.  2017-04-11 14:23:29 +0000      378 bytes  web/client/Images/timelineBarGray.png</tspan>
-<tspan x="10" y="3562">205.  2017-04-11 14:23:29 +0000      414 bytes  web/client/Images/timelineBarGreen.png</tspan>
-<tspan x="10" y="3578">206.  2017-04-11 14:23:29 +0000      394 bytes  web/client/Images/timelineBarOrange.png</tspan>
-<tspan x="10" y="3594">207.  2017-04-11 14:23:29 +0000      420 bytes  web/client/Images/timelineBarPurple.png</tspan>
-<tspan x="10" y="3610">208.  2017-04-11 14:23:29 +0000      408 bytes  web/client/Images/timelineBarRed.png</tspan>
-<tspan x="10" y="3626">209.  2017-04-11 14:23:29 +0000      400 bytes  web/client/Images/timelineBarYellow.png</tspan>
-<tspan x="10" y="3642">210.  2017-04-11 14:23:29 +0000     3528 bytes  web/client/Images/timelineCheckmarks.png</tspan>
-<tspan x="10" y="3658">211.  2017-04-11 14:23:29 +0000     2436 bytes  web/client/Images/timelineDots.png</tspan>
-<tspan x="10" y="3674">212.  2017-04-11 14:23:29 +0000     3450 bytes  web/client/Images/timelineHollowPillBlue.png</tspan>
-<tspan x="10" y="3690">213.  2017-04-11 14:23:29 +0000     3392 bytes  web/client/Images/timelineHollowPillGray.png</tspan>
-<tspan x="10" y="3706">214.  2017-04-11 14:23:29 +0000     3452 bytes  web/client/Images/timelineHollowPillGreen.png</tspan>
-<tspan x="10" y="3722">215.  2017-04-11 14:23:29 +0000     3452 bytes  web/client/Images/timelineHollowPillOrange.png</tspan>
-<tspan x="10" y="3738">216.  2017-04-11 14:23:29 +0000     3453 bytes  web/client/Images/timelineHollowPillPurple.png</tspan>
-<tspan x="10" y="3754">217.  2017-04-11 14:23:29 +0000     3460 bytes  web/client/Images/timelineHollowPillRed.png</tspan>
-<tspan x="10" y="3770">218.  2017-04-11 14:23:29 +0000     3444 bytes  web/client/Images/timelineHollowPillYellow.png</tspan>
-<tspan x="10" y="3786">219.  2017-04-11 14:23:29 +0000     4419 bytes  web/client/Images/timelineIcon.png</tspan>
-<tspan x="10" y="3802">220.  2017-04-11 14:23:29 +0000     3346 bytes  web/client/Images/timelinePillBlue.png</tspan>
-<tspan x="10" y="3818">221.  2017-04-11 14:23:29 +0000     3297 bytes  web/client/Images/timelinePillGray.png</tspan>
-<tspan x="10" y="3834">222.  2017-04-11 14:23:29 +0000     3350 bytes  web/client/Images/timelinePillGreen.png</tspan>
-<tspan x="10" y="3850">223.  2017-04-11 14:23:29 +0000     3352 bytes  web/client/Images/timelinePillOrange.png</tspan>
-<tspan x="10" y="3866">224.  2017-04-11 14:23:29 +0000     3353 bytes  web/client/Images/timelinePillPurple.png</tspan>
-<tspan x="10" y="3882">225.  2017-04-11 14:23:29 +0000     3343 bytes  web/client/Images/timelinePillRed.png</tspan>
-<tspan x="10" y="3898">226.  2017-04-11 14:23:29 +0000     3336 bytes  web/client/Images/timelinePillYellow.png</tspan>
-<tspan x="10" y="3914">227.  2017-04-11 14:23:29 +0000     4197 bytes  web/client/Images/toolbarItemSelected.png</tspan>
-<tspan x="10" y="3930">228.  2017-04-11 14:23:29 +0000      520 bytes  web/client/Images/trackHoriz.png</tspan>
-<tspan x="10" y="3946">229.  2017-04-11 14:23:29 +0000      523 bytes  web/client/Images/trackVert.png</tspan>
-<tspan x="10" y="3962">230.  2017-04-11 14:23:29 +0000     3570 bytes  web/client/Images/treeDownTriangleBlack.png</tspan>
-<tspan x="10" y="3978">231.  2017-04-11 14:23:29 +0000     3531 bytes  web/client/Images/treeDownTriangleWhite.png</tspan>
-<tspan x="10" y="3994">232.  2017-04-11 14:23:29 +0000     3561 bytes  web/client/Images/treeRightTriangleBlack.png</tspan>
-<tspan x="10" y="4010">233.  2017-04-11 14:23:29 +0000     3535 bytes  web/client/Images/treeRightTriangleWhite.png</tspan>
-<tspan x="10" y="4026">234.  2017-04-11 14:23:29 +0000     3584 bytes  web/client/Images/treeUpTriangleBlack.png</tspan>
-<tspan x="10" y="4042">235.  2017-04-11 14:23:29 +0000     3558 bytes  web/client/Images/treeUpTriangleWhite.png</tspan>
-<tspan x="10" y="4058">236.  2017-04-11 14:23:29 +0000      179 bytes  web/client/Images/undockButtonGlyph.png</tspan>
-<tspan x="10" y="4074">237.  2017-04-11 14:23:29 +0000      777 bytes  web/client/Images/userInputIcon.png</tspan>
-<tspan x="10" y="4090">238.  2017-04-11 14:23:29 +0000      765 bytes  web/client/Images/userInputPreviousIcon.png</tspan>
-<tspan x="10" y="4106">239.  2017-04-11 14:23:29 +0000      259 bytes  web/client/Images/userInputResultIcon.png</tspan>
-<tspan x="10" y="4122">240.  2017-04-11 14:23:29 +0000     4244 bytes  web/client/Images/warningIcon.png</tspan>
-<tspan x="10" y="4138">241.  2017-04-11 14:23:29 +0000     3833 bytes  web/client/Images/warningMediumIcon.png</tspan>
-<tspan x="10" y="4154">242.  2017-04-11 14:23:29 +0000      580 bytes  web/client/Images/warningOrangeDot.png</tspan>
-<tspan x="10" y="4170">243.  2017-04-11 14:23:29 +0000     5192 bytes  web/client/Images/warningsErrors.png</tspan>
-<tspan x="10" y="4186">244.  2017-04-11 14:23:29 +0000    11749 bytes  web/client/InjectedFakeWorker.js</tspan>
-<tspan x="10" y="4202">245.  2017-04-11 14:23:29 +0000      973 bytes  web/client/InspectorBackendStub.js</tspan>
-<tspan x="10" y="4218">246.  2017-04-11 14:23:29 +0000      135 bytes  web/client/InspectorBackendStub.qrc</tspan>
-<tspan x="10" y="4234">247.  2017-04-11 14:23:29 +0000      993 bytes  web/client/InspectorFrontendHostStub.js</tspan>
-<tspan x="10" y="4250">248.  2017-04-11 14:23:29 +0000     7026 bytes  web/client/KeyboardShortcut.js</tspan>
-<tspan x="10" y="4266">249.  2017-04-11 14:23:29 +0000     9760 bytes  web/client/MetricsSidebarPane.js</tspan>
-<tspan x="10" y="4282">250.  2017-04-11 14:23:29 +0000     3677 bytes  web/client/NetworkItemView.js</tspan>
-<tspan x="10" y="4298">251.  2017-04-11 14:23:29 +0000    14203 bytes  web/client/NetworkManager.js</tspan>
-<tspan x="10" y="4314">252.  2017-04-11 14:23:29 +0000    63337 bytes  web/client/NetworkPanel.js</tspan>
-<tspan x="10" y="4330">253.  2017-04-11 14:23:29 +0000     3342 bytes  web/client/Object.js</tspan>
-<tspan x="10" y="4346">254.  2017-04-11 14:23:29 +0000    10600 bytes  web/client/ObjectPropertiesSection.js</tspan>
-<tspan x="10" y="4362">255.  2017-04-11 14:23:29 +0000    14274 bytes  web/client/Panel.js</tspan>
-<tspan x="10" y="4378">256.  2017-04-11 14:23:29 +0000     4048 bytes  web/client/PanelEnablerView.js</tspan>
-<tspan x="10" y="4394">257.  2017-04-11 14:23:29 +0000     2971 bytes  web/client/Placard.js</tspan>
-<tspan x="10" y="4410">258.  2017-04-11 14:23:29 +0000     4047 bytes  web/client/PleaseWaitMessage.js</tspan>
-<tspan x="10" y="4426">259.  2017-04-11 14:23:29 +0000     9890 bytes  web/client/Popover.js</tspan>
-<tspan x="10" y="4442">260.  2017-04-11 14:23:29 +0000    12359 bytes  web/client/ProfileDataGridTree.js</tspan>
-<tspan x="10" y="4458">261.  2017-04-11 14:23:29 +0000    23294 bytes  web/client/ProfileView.js</tspan>
-<tspan x="10" y="4474">262.  2017-04-11 14:23:29 +0000    26969 bytes  web/client/ProfilesPanel.js</tspan>
-<tspan x="10" y="4490">263.  2017-04-11 14:23:29 +0000     2235 bytes  web/client/PropertiesSection.js</tspan>
-<tspan x="10" y="4506">264.  2017-04-11 14:23:29 +0000     2844 bytes  web/client/PropertiesSidebarPane.js</tspan>
-<tspan x="10" y="4522">265.  2017-04-11 14:23:29 +0000     6100 bytes  web/client/RemoteObject.js</tspan>
-<tspan x="10" y="4538">266.  2017-04-11 14:23:29 +0000    22358 bytes  web/client/Resource.js</tspan>
-<tspan x="10" y="4554">267.  2017-04-11 14:23:29 +0000     1824 bytes  web/client/ResourceCategory.js</tspan>
-<tspan x="10" y="4570">268.  2017-04-11 14:23:29 +0000     3302 bytes  web/client/ResourceCookiesView.js</tspan>
-<tspan x="10" y="4586">269.  2017-04-11 14:23:29 +0000    12416 bytes  web/client/ResourceHeadersView.js</tspan>
-<tspan x="10" y="4602">270.  2017-04-11 14:23:29 +0000     6525 bytes  web/client/ResourceTimingView.js</tspan>
-<tspan x="10" y="4618">271.  2017-04-11 14:23:29 +0000     7269 bytes  web/client/ResourceTreeModel.js</tspan>
-<tspan x="10" y="4634">272.  2017-04-11 14:23:29 +0000     6363 bytes  web/client/ResourceView.js</tspan>
-<tspan x="10" y="4650">273.  2017-04-11 14:23:29 +0000    43784 bytes  web/client/ResourcesPanel.js</tspan>
-<tspan x="10" y="4666">274.  2017-04-11 14:23:29 +0000     6217 bytes  web/client/ScopeChainSidebarPane.js</tspan>
-<tspan x="10" y="4682">275.  2017-04-11 14:23:29 +0000     4019 bytes  web/client/Script.js</tspan>
-<tspan x="10" y="4698">276.  2017-04-11 14:23:29 +0000     9439 bytes  web/client/ScriptFormatter.js</tspan>
-<tspan x="10" y="4714">277.  2017-04-11 14:23:29 +0000     2941 bytes  web/client/ScriptFormatterWorker.js</tspan>
-<tspan x="10" y="4730">278.  2017-04-11 14:23:29 +0000    42067 bytes  web/client/ScriptsPanel.js</tspan>
-<tspan x="10" y="4746">279.  2017-04-11 14:23:29 +0000     4928 bytes  web/client/Section.js</tspan>
-<tspan x="10" y="4762">280.  2017-04-11 14:23:29 +0000     5912 bytes  web/client/Settings.js</tspan>
-<tspan x="10" y="4778">281.  2017-04-11 14:23:29 +0000     5496 bytes  web/client/ShortcutsHelp.js</tspan>
-<tspan x="10" y="4794">282.  2017-04-11 14:23:29 +0000     3254 bytes  web/client/ShowMoreDataGridNode.js</tspan>
-<tspan x="10" y="4810">283.  2017-04-11 14:23:29 +0000     4189 bytes  web/client/SidebarPane.js</tspan>
-<tspan x="10" y="4826">284.  2017-04-11 14:23:29 +0000     5971 bytes  web/client/SidebarTreeElement.js</tspan>
-<tspan x="10" y="4842">285.  2017-04-11 14:23:29 +0000    61212 bytes  web/client/SourceCSSTokenizer.js</tspan>
-<tspan x="10" y="4858">286.  2017-04-11 14:23:29 +0000    16393 bytes  web/client/SourceCSSTokenizer.re2js</tspan>
-<tspan x="10" y="4874">287.  2017-04-11 14:23:29 +0000    34491 bytes  web/client/SourceFrame.js</tspan>
-<tspan x="10" y="4890">288.  2017-04-11 14:23:29 +0000     4383 bytes  web/client/SourceFrameContent.js</tspan>
-<tspan x="10" y="4906">289.  2017-04-11 14:23:29 +0000    31510 bytes  web/client/SourceHTMLTokenizer.js</tspan>
-<tspan x="10" y="4922">290.  2017-04-11 14:23:29 +0000    16173 bytes  web/client/SourceHTMLTokenizer.re2js</tspan>
-<tspan x="10" y="4938">291.  2017-04-11 14:23:29 +0000    99171 bytes  web/client/SourceJavaScriptTokenizer.js</tspan>
-<tspan x="10" y="4954">292.  2017-04-11 14:23:29 +0000     9177 bytes  web/client/SourceJavaScriptTokenizer.re2js</tspan>
-<tspan x="10" y="4970">293.  2017-04-11 14:23:29 +0000     3357 bytes  web/client/SourceTokenizer.js</tspan>
-<tspan x="10" y="4986">294.  2017-04-11 14:23:29 +0000     4277 bytes  web/client/StatusBarButton.js</tspan>
-<tspan x="10" y="5002">295.  2017-04-11 14:23:29 +0000    80488 bytes  web/client/StylesSidebarPane.js</tspan>
-<tspan x="10" y="5018">296.  2017-04-11 14:23:29 +0000    12287 bytes  web/client/SummaryBar.js</tspan>
-<tspan x="10" y="5034">297.  2017-04-11 14:23:29 +0000     3199 bytes  web/client/TabbedPane.js</tspan>
-<tspan x="10" y="5050">298.  2017-04-11 14:23:29 +0000     3038 bytes  web/client/TestController.js</tspan>
-<tspan x="10" y="5066">299.  2017-04-11 14:23:29 +0000     5666 bytes  web/client/TextEditorHighlighter.js</tspan>
-<tspan x="10" y="5082">300.  2017-04-11 14:23:29 +0000     9994 bytes  web/client/TextEditorModel.js</tspan>
-<tspan x="10" y="5098">301.  2017-04-11 14:23:29 +0000    16764 bytes  web/client/TextPrompt.js</tspan>
-<tspan x="10" y="5114">302.  2017-04-11 14:23:29 +0000    43277 bytes  web/client/TextViewer.js</tspan>
-<tspan x="10" y="5130">303.  2017-04-11 14:23:29 +0000     2232 bytes  web/client/TimelineAgent.js</tspan>
-<tspan x="10" y="5146">304.  2017-04-11 14:23:29 +0000     7204 bytes  web/client/TimelineGrid.js</tspan>
-<tspan x="10" y="5162">305.  2017-04-11 14:23:29 +0000    22701 bytes  web/client/TimelineOverviewPane.js</tspan>
-<tspan x="10" y="5178">306.  2017-04-11 14:23:29 +0000    53796 bytes  web/client/TimelinePanel.js</tspan>
-<tspan x="10" y="5194">307.  2017-04-11 14:23:29 +0000     4198 bytes  web/client/TopDownProfileDataGridTree.js</tspan>
-<tspan x="10" y="5210">308.  2017-04-11 14:23:29 +0000    41899 bytes  web/client/UglifyJS/parse-js.js</tspan>
-<tspan x="10" y="5226">309.  2017-04-11 14:23:29 +0000    65191 bytes  web/client/UglifyJS/process.js</tspan>
-<tspan x="10" y="5242">310.  2017-04-11 14:23:29 +0000     2416 bytes  web/client/View.js</tspan>
-<tspan x="10" y="5258">311.  2017-04-11 14:23:29 +0000    10167 bytes  web/client/WatchExpressionsSidebarPane.js</tspan>
-<tspan x="10" y="5274">312.  2017-04-11 14:23:29 +0000    11857 bytes  web/client/WebKit.qrc</tspan>
-<tspan x="10" y="5290">313.  2017-04-11 14:23:29 +0000     3302 bytes  web/client/WelcomeView.js</tspan>
-<tspan x="10" y="5306">314.  2017-04-11 14:23:29 +0000     3961 bytes  web/client/WorkersSidebarPane.js</tspan>
-<tspan x="10" y="5322">315.  2017-04-11 14:23:29 +0000     7175 bytes  web/client/audits.css</tspan>
-<tspan x="10" y="5338">316.  2017-04-11 14:23:29 +0000     1085 bytes  web/client/goToLineDialog.css</tspan>
-<tspan x="10" y="5354">317.  2017-04-11 14:23:29 +0000     3761 bytes  web/client/heapProfiler.css</tspan>
-<tspan x="10" y="5370">318.  2017-04-11 14:23:29 +0000     3079 bytes  web/client/helpScreen.css</tspan>
-<tspan x="10" y="5386">319.  2017-04-11 14:23:29 +0000    14628 bytes  web/client/index.html</tspan>
-<tspan x="10" y="5402">320.  2017-04-11 14:23:29 +0000   103835 bytes  web/client/inspector.css</tspan>
-<tspan x="10" y="5418">321.  2017-04-11 14:23:29 +0000    11865 bytes  web/client/inspector.html</tspan>
-<tspan x="10" y="5434">322.  2017-04-11 14:23:29 +0000    66487 bytes  web/client/inspector.js</tspan>
-<tspan x="10" y="5450">323.  2017-04-11 14:23:29 +0000     3409 bytes  web/client/inspectorSyntaxHighlight.css</tspan>
-<tspan x="10" y="5466">324.  2017-04-11 14:23:29 +0000    18858 bytes  web/client/networkPanel.css</tspan>
-<tspan x="10" y="5482">325.  2017-04-11 14:23:29 +0000    52092 bytes  web/client/nls/English.lproj/localizedStrings.js</tspan>
-<tspan x="10" y="5498">326.  2017-04-11 14:23:29 +0000     4340 bytes  web/client/popover.css</tspan>
-<tspan x="10" y="5514">327.  2017-04-11 14:23:29 +0000     4513 bytes  web/client/textViewer.css</tspan>
-<tspan x="10" y="5530">328.  2017-04-11 14:23:29 +0000    29735 bytes  web/client/treeoutline.js</tspan>
-<tspan x="10" y="5546">329.  2017-04-11 14:23:29 +0000    32332 bytes  web/client/utilities.js</tspan>
-<tspan x="10" y="5562">330.  2017-04-11 14:23:29 +0000      859 bytes  web/client/web-inspector-API.js</tspan>
-<tspan x="10" y="5578">331.  2017-04-11 14:23:29 +0000     6326 bytes  web/client/weinre/Images/remoteIcon.png</tspan>
-<tspan x="10" y="5594">332.  2017-04-11 14:23:29 +0000     1474 bytes  web/client/weinre/browser-support-check.js</tspan>
-<tspan x="10" y="5610">333.  2017-04-11 14:23:29 +0000     2280 bytes  web/client/weinre/client.css</tspan>
-<tspan x="10" y="5626">334.  2017-04-11 14:23:29 +0000     4247 bytes  web/client/weinre/hacks.js</tspan>
-<tspan x="10" y="5642">335.  2017-04-11 14:23:29 +0000      923 bytes  web/demo/split.html</tspan>
-<tspan x="10" y="5658">336.  2017-04-11 14:23:29 +0000     1629 bytes  web/demo/weinre-demo-min.html</tspan>
-<tspan x="10" y="5674">337.  2017-04-11 14:23:29 +0000     1673 bytes  web/demo/weinre-demo-strict.html</tspan>
-<tspan x="10" y="5690">338.  2017-04-11 14:23:29 +0000     5746 bytes  web/demo/weinre-demo-strict.js</tspan>
-<tspan x="10" y="5706">339.  2017-04-11 14:23:29 +0000     1088 bytes  web/demo/weinre-demo.css</tspan>
-<tspan x="10" y="5722">340.  2017-04-11 14:23:29 +0000     1629 bytes  web/demo/weinre-demo.html</tspan>
-<tspan x="10" y="5738">341.  2017-04-11 14:23:29 +0000     5749 bytes  web/demo/weinre-demo.js</tspan>
-<tspan x="10" y="5754">342.  2017-04-11 14:23:29 +0000     5118 bytes  web/doc/Building.html</tspan>
-<tspan x="10" y="5770">343.  2017-04-11 14:23:29 +0000    20734 bytes  web/doc/ChangeLog.html</tspan>
-<tspan x="10" y="5786">344.  2017-04-11 14:23:29 +0000    10807 bytes  web/doc/Home.html</tspan>
-<tspan x="10" y="5802">345.  2017-04-11 14:23:29 +0000     7276 bytes  web/doc/Installing.html</tspan>
-<tspan x="10" y="5818">346.  2017-04-11 14:23:29 +0000     4280 bytes  web/doc/License.html</tspan>
-<tspan x="10" y="5834">347.  2017-04-11 14:23:29 +0000     7280 bytes  web/doc/MultiUser.html</tspan>
-<tspan x="10" y="5850">348.  2017-04-11 14:23:29 +0000    13830 bytes  web/doc/Running.html</tspan>
-<tspan x="10" y="5866">349.  2017-04-11 14:23:29 +0000     5720 bytes  web/doc/Security.html</tspan>
-<tspan x="10" y="5882">350.  2017-04-11 14:23:29 +0000    12912 bytes  web/doc/UserInterface.html</tspan>
-<tspan x="10" y="5898">351.  2017-04-11 14:23:29 +0000      135 bytes  web/doc/build-info.txt</tspan>
-<tspan x="10" y="5914">352.  2017-04-11 14:23:29 +0000     5498 bytes  web/doc/css/main.css</tspan>
-<tspan x="10" y="5930">353.  2017-04-11 14:23:29 +0000     2260 bytes  web/doc/images/circled-a.png</tspan>
-<tspan x="10" y="5946">354.  2017-04-11 14:23:29 +0000     2271 bytes  web/doc/images/circled-b.png</tspan>
-<tspan x="10" y="5962">355.  2017-04-11 14:23:29 +0000     2324 bytes  web/doc/images/circled-c.png</tspan>
-<tspan x="10" y="5978">356.  2017-04-11 14:23:29 +0000     2259 bytes  web/doc/images/circled-d.png</tspan>
-<tspan x="10" y="5994">357.  2017-04-11 14:23:29 +0000     2197 bytes  web/doc/images/circled-e.png</tspan>
-<tspan x="10" y="6010">358.  2017-04-11 14:23:29 +0000     2149 bytes  web/doc/images/circled-f.png</tspan>
-<tspan x="10" y="6026">359.  2017-04-11 14:23:29 +0000     2368 bytes  web/doc/images/circled-g.png</tspan>
-<tspan x="10" y="6042">360.  2017-04-11 14:23:29 +0000     2114 bytes  web/doc/images/circled-h.png</tspan>
-<tspan x="10" y="6058">361.  2017-04-11 14:23:29 +0000     2030 bytes  web/doc/images/circled-i.png</tspan>
-<tspan x="10" y="6074">362.  2017-04-11 14:23:29 +0000     2138 bytes  web/doc/images/circled-j.png</tspan>
-<tspan x="10" y="6090">363.  2017-04-11 14:23:29 +0000   125870 bytes  web/doc/images/panel-console.png</tspan>
-<tspan x="10" y="6106">364.  2017-04-11 14:23:29 +0000   168517 bytes  web/doc/images/panel-elements.png</tspan>
-<tspan x="10" y="6122">365.  2017-04-11 14:23:29 +0000   129191 bytes  web/doc/images/panel-network.png</tspan>
-<tspan x="10" y="6138">366.  2017-04-11 14:23:29 +0000   111326 bytes  web/doc/images/panel-remote-console.png</tspan>
-<tspan x="10" y="6154">367.  2017-04-11 14:23:29 +0000   131251 bytes  web/doc/images/panel-remote.png</tspan>
-<tspan x="10" y="6170">368.  2017-04-11 14:23:29 +0000    91188 bytes  web/doc/images/panel-resources.png</tspan>
-<tspan x="10" y="6186">369.  2017-04-11 14:23:29 +0000   117361 bytes  web/doc/images/panel-timeline.png</tspan>
-<tspan x="10" y="6202">370.  2017-04-11 14:23:29 +0000   111501 bytes  web/doc/images/server-home.png</tspan>
-<tspan x="10" y="6218">371.  2017-04-11 14:23:29 +0000   432255 bytes  web/doc/images/weinre-demo.jpg</tspan>
-<tspan x="10" y="6234">372.  2017-04-11 14:23:29 +0000     5767 bytes  web/doc/images/weinre-icon-128x128.png</tspan>
-<tspan x="10" y="6250">373.  2017-04-11 14:23:29 +0000    22326 bytes  web/doc/images/weinre-icon-512x512.png</tspan>
-<tspan x="10" y="6266">374.  2017-04-11 14:23:29 +0000     2583 bytes  web/doc/images/weinre-icon-64x64.png</tspan>
-<tspan x="10" y="6282">375.  2017-04-11 14:23:29 +0000    10807 bytes  web/doc/index.html</tspan>
-<tspan x="10" y="6298">376.  2017-04-11 14:23:29 +0000     3041 bytes  web/doc/scripts/main.js</tspan>
-<tspan x="10" y="6314">377.  2017-04-11 14:23:29 +0000     5767 bytes  web/images/weinre-icon-128x128.png</tspan>
-<tspan x="10" y="6330">378.  2017-04-11 14:23:29 +0000     1085 bytes  web/images/weinre-icon-32x32.png</tspan>
-<tspan x="10" y="6346">379.  2017-04-11 14:23:29 +0000     2583 bytes  web/images/weinre-icon-64x64.png</tspan>
-<tspan x="10" y="6362">380.  2017-04-11 14:23:29 +0000     3539 bytes  web/index.html</tspan>
-<tspan x="10" y="6378">381.  2017-04-11 14:23:29 +0000     4057 bytes  web/index.js</tspan>
-<tspan x="10" y="6394">382.  2017-04-11 14:23:29 +0000     6648 bytes  web/interfaces/InjectedScriptHost.json</tspan>
-<tspan x="10" y="6410">383.  2017-04-11 14:23:29 +0000   115413 bytes  web/interfaces/Inspector.json</tspan>
-<tspan x="10" y="6426">384.  2017-04-11 14:23:29 +0000     6587 bytes  web/interfaces/InspectorFrontendHost.json</tspan>
-<tspan x="10" y="6442">385.  2017-04-11 14:23:29 +0000     4816 bytes  web/interfaces/WeinreClientCommands.json</tspan>
-<tspan x="10" y="6458">386.  2017-04-11 14:23:29 +0000     4235 bytes  web/interfaces/WeinreClientEvents.json</tspan>
-<tspan x="10" y="6474">387.  2017-04-11 14:23:29 +0000      686 bytes  web/interfaces/WeinreExtraClientCommands.json</tspan>
-<tspan x="10" y="6490">388.  2017-04-11 14:23:29 +0000      614 bytes  web/interfaces/WeinreExtraTargetEvents.json</tspan>
-<tspan x="10" y="6506">389.  2017-04-11 14:23:29 +0000     3074 bytes  web/interfaces/WeinreTargetCommands.json</tspan>
-<tspan x="10" y="6522">390.  2017-04-11 14:23:29 +0000     1984 bytes  web/interfaces/WeinreTargetEvents.json</tspan>
-<tspan x="10" y="6538">391.  2017-04-11 14:23:29 +0000    18458 bytes  web/interfaces/all-json-idls-min.js</tspan>
-<tspan x="10" y="6554">392.  2017-04-11 14:23:29 +0000   192631 bytes  web/interfaces/all-json-idls.js</tspan>
-<tspan x="10" y="6570">393.  2017-04-11 14:23:29 +0000     1870 bytes  web/interfaces/interfaces.css</tspan>
-<tspan x="10" y="6586">394.  2017-04-11 14:23:29 +0000     2581 bytes  web/interfaces/interfaces.html</tspan>
-<tspan x="10" y="6602">395.  2017-04-11 14:23:29 +0000    14548 bytes  web/interfaces/interfaces.js</tspan>
-<tspan x="10" y="6618">396.  2017-04-11 14:23:29 +0000    12681 bytes  web/modjewel.js</tspan>
-<tspan x="10" y="6634">397.  2017-04-11 14:23:29 +0000   155106 bytes  web/target/target-script-min.js</tspan>
-<tspan x="10" y="6650">398.  2017-04-11 14:23:29 +0000   198005 bytes  web/target/target-script.js</tspan>
-<tspan x="10" y="6666">399.  2017-04-11 14:23:29 +0000     3931 bytes  web/tests/element-highlighter.html</tspan>
-<tspan x="10" y="6682">400.  2017-04-11 14:23:29 +0000      963 bytes  web/tests/index.html</tspan>
-<tspan x="10" y="6698">401.  2017-04-11 14:23:29 +0000      947 bytes  web/versions.js</tspan>
-<tspan x="10" y="6714">402.  2017-04-11 14:23:29 +0000     5871 bytes  web/weinre/client/Client.amd.js</tspan>
-<tspan x="10" y="6730">403.  2017-04-11 14:23:29 +0000     4704 bytes  web/weinre/client/ConnectorList.amd.js</tspan>
-<tspan x="10" y="6746">404.  2017-04-11 14:23:29 +0000     2181 bytes  web/weinre/client/DOMTemplates.amd.js</tspan>
-<tspan x="10" y="6762">405.  2017-04-11 14:23:29 +0000     1027 bytes  web/weinre/client/ExtensionRegistryImpl.amd.js</tspan>
-<tspan x="10" y="6778">406.  2017-04-11 14:23:29 +0000     2306 bytes  web/weinre/client/InspectorBackendImpl.amd.js</tspan>
-<tspan x="10" y="6794">407.  2017-04-11 14:23:29 +0000     3249 bytes  web/weinre/client/InspectorFrontendHostImpl.amd.\</tspan>
+<tspan x="10" y="3386">194.  2017-04-11 14:25:33 +0000     4026 bytes  web/client/Images/statusbarResizerHorizontal.png</tspan>
+<tspan x="10" y="3402">195.  2017-04-11 14:25:33 +0000     4036 bytes  web/client/Images/statusbarResizerVertical.png</tspan>
+<tspan x="10" y="3418">196.  2017-04-11 14:25:33 +0000      585 bytes  web/client/Images/successGreenDot.png</tspan>
+<tspan x="10" y="3434">197.  2017-04-11 14:25:33 +0000      647 bytes  web/client/Images/thumbActiveHoriz.png</tspan>
+<tspan x="10" y="3450">198.  2017-04-11 14:25:33 +0000      599 bytes  web/client/Images/thumbActiveVert.png</tspan>
+<tspan x="10" y="3466">199.  2017-04-11 14:25:33 +0000      657 bytes  web/client/Images/thumbHoriz.png</tspan>
+<tspan x="10" y="3482">200.  2017-04-11 14:25:33 +0000      667 bytes  web/client/Images/thumbHoverHoriz.png</tspan>
+<tspan x="10" y="3498">201.  2017-04-11 14:25:33 +0000      583 bytes  web/client/Images/thumbHoverVert.png</tspan>
+<tspan x="10" y="3514">202.  2017-04-11 14:25:33 +0000      568 bytes  web/client/Images/thumbVert.png</tspan>
+<tspan x="10" y="3530">203.  2017-04-11 14:25:33 +0000      419 bytes  web/client/Images/timelineBarBlue.png</tspan>
+<tspan x="10" y="3546">204.  2017-04-11 14:25:33 +0000      378 bytes  web/client/Images/timelineBarGray.png</tspan>
+<tspan x="10" y="3562">205.  2017-04-11 14:25:33 +0000      414 bytes  web/client/Images/timelineBarGreen.png</tspan>
+<tspan x="10" y="3578">206.  2017-04-11 14:25:33 +0000      394 bytes  web/client/Images/timelineBarOrange.png</tspan>
+<tspan x="10" y="3594">207.  2017-04-11 14:25:33 +0000      420 bytes  web/client/Images/timelineBarPurple.png</tspan>
+<tspan x="10" y="3610">208.  2017-04-11 14:25:33 +0000      408 bytes  web/client/Images/timelineBarRed.png</tspan>
+<tspan x="10" y="3626">209.  2017-04-11 14:25:33 +0000      400 bytes  web/client/Images/timelineBarYellow.png</tspan>
+<tspan x="10" y="3642">210.  2017-04-11 14:25:33 +0000     3528 bytes  web/client/Images/timelineCheckmarks.png</tspan>
+<tspan x="10" y="3658">211.  2017-04-11 14:25:33 +0000     2436 bytes  web/client/Images/timelineDots.png</tspan>
+<tspan x="10" y="3674">212.  2017-04-11 14:25:33 +0000     3450 bytes  web/client/Images/timelineHollowPillBlue.png</tspan>
+<tspan x="10" y="3690">213.  2017-04-11 14:25:33 +0000     3392 bytes  web/client/Images/timelineHollowPillGray.png</tspan>
+<tspan x="10" y="3706">214.  2017-04-11 14:25:33 +0000     3452 bytes  web/client/Images/timelineHollowPillGreen.png</tspan>
+<tspan x="10" y="3722">215.  2017-04-11 14:25:33 +0000     3452 bytes  web/client/Images/timelineHollowPillOrange.png</tspan>
+<tspan x="10" y="3738">216.  2017-04-11 14:25:33 +0000     3453 bytes  web/client/Images/timelineHollowPillPurple.png</tspan>
+<tspan x="10" y="3754">217.  2017-04-11 14:25:33 +0000     3460 bytes  web/client/Images/timelineHollowPillRed.png</tspan>
+<tspan x="10" y="3770">218.  2017-04-11 14:25:33 +0000     3444 bytes  web/client/Images/timelineHollowPillYellow.png</tspan>
+<tspan x="10" y="3786">219.  2017-04-11 14:25:33 +0000     4419 bytes  web/client/Images/timelineIcon.png</tspan>
+<tspan x="10" y="3802">220.  2017-04-11 14:25:33 +0000     3346 bytes  web/client/Images/timelinePillBlue.png</tspan>
+<tspan x="10" y="3818">221.  2017-04-11 14:25:33 +0000     3297 bytes  web/client/Images/timelinePillGray.png</tspan>
+<tspan x="10" y="3834">222.  2017-04-11 14:25:33 +0000     3350 bytes  web/client/Images/timelinePillGreen.png</tspan>
+<tspan x="10" y="3850">223.  2017-04-11 14:25:33 +0000     3352 bytes  web/client/Images/timelinePillOrange.png</tspan>
+<tspan x="10" y="3866">224.  2017-04-11 14:25:33 +0000     3353 bytes  web/client/Images/timelinePillPurple.png</tspan>
+<tspan x="10" y="3882">225.  2017-04-11 14:25:33 +0000     3343 bytes  web/client/Images/timelinePillRed.png</tspan>
+<tspan x="10" y="3898">226.  2017-04-11 14:25:33 +0000     3336 bytes  web/client/Images/timelinePillYellow.png</tspan>
+<tspan x="10" y="3914">227.  2017-04-11 14:25:33 +0000     4197 bytes  web/client/Images/toolbarItemSelected.png</tspan>
+<tspan x="10" y="3930">228.  2017-04-11 14:25:33 +0000      520 bytes  web/client/Images/trackHoriz.png</tspan>
+<tspan x="10" y="3946">229.  2017-04-11 14:25:33 +0000      523 bytes  web/client/Images/trackVert.png</tspan>
+<tspan x="10" y="3962">230.  2017-04-11 14:25:33 +0000     3570 bytes  web/client/Images/treeDownTriangleBlack.png</tspan>
+<tspan x="10" y="3978">231.  2017-04-11 14:25:33 +0000     3531 bytes  web/client/Images/treeDownTriangleWhite.png</tspan>
+<tspan x="10" y="3994">232.  2017-04-11 14:25:33 +0000     3561 bytes  web/client/Images/treeRightTriangleBlack.png</tspan>
+<tspan x="10" y="4010">233.  2017-04-11 14:25:33 +0000     3535 bytes  web/client/Images/treeRightTriangleWhite.png</tspan>
+<tspan x="10" y="4026">234.  2017-04-11 14:25:33 +0000     3584 bytes  web/client/Images/treeUpTriangleBlack.png</tspan>
+<tspan x="10" y="4042">235.  2017-04-11 14:25:33 +0000     3558 bytes  web/client/Images/treeUpTriangleWhite.png</tspan>
+<tspan x="10" y="4058">236.  2017-04-11 14:25:33 +0000      179 bytes  web/client/Images/undockButtonGlyph.png</tspan>
+<tspan x="10" y="4074">237.  2017-04-11 14:25:33 +0000      777 bytes  web/client/Images/userInputIcon.png</tspan>
+<tspan x="10" y="4090">238.  2017-04-11 14:25:33 +0000      765 bytes  web/client/Images/userInputPreviousIcon.png</tspan>
+<tspan x="10" y="4106">239.  2017-04-11 14:25:33 +0000      259 bytes  web/client/Images/userInputResultIcon.png</tspan>
+<tspan x="10" y="4122">240.  2017-04-11 14:25:33 +0000     4244 bytes  web/client/Images/warningIcon.png</tspan>
+<tspan x="10" y="4138">241.  2017-04-11 14:25:33 +0000     3833 bytes  web/client/Images/warningMediumIcon.png</tspan>
+<tspan x="10" y="4154">242.  2017-04-11 14:25:33 +0000      580 bytes  web/client/Images/warningOrangeDot.png</tspan>
+<tspan x="10" y="4170">243.  2017-04-11 14:25:33 +0000     5192 bytes  web/client/Images/warningsErrors.png</tspan>
+<tspan x="10" y="4186">244.  2017-04-11 14:25:33 +0000    11749 bytes  web/client/InjectedFakeWorker.js</tspan>
+<tspan x="10" y="4202">245.  2017-04-11 14:25:33 +0000      973 bytes  web/client/InspectorBackendStub.js</tspan>
+<tspan x="10" y="4218">246.  2017-04-11 14:25:33 +0000      135 bytes  web/client/InspectorBackendStub.qrc</tspan>
+<tspan x="10" y="4234">247.  2017-04-11 14:25:33 +0000      993 bytes  web/client/InspectorFrontendHostStub.js</tspan>
+<tspan x="10" y="4250">248.  2017-04-11 14:25:33 +0000     7026 bytes  web/client/KeyboardShortcut.js</tspan>
+<tspan x="10" y="4266">249.  2017-04-11 14:25:33 +0000     9760 bytes  web/client/MetricsSidebarPane.js</tspan>
+<tspan x="10" y="4282">250.  2017-04-11 14:25:33 +0000     3677 bytes  web/client/NetworkItemView.js</tspan>
+<tspan x="10" y="4298">251.  2017-04-11 14:25:33 +0000    14203 bytes  web/client/NetworkManager.js</tspan>
+<tspan x="10" y="4314">252.  2017-04-11 14:25:33 +0000    63337 bytes  web/client/NetworkPanel.js</tspan>
+<tspan x="10" y="4330">253.  2017-04-11 14:25:33 +0000     3342 bytes  web/client/Object.js</tspan>
+<tspan x="10" y="4346">254.  2017-04-11 14:25:33 +0000    10600 bytes  web/client/ObjectPropertiesSection.js</tspan>
+<tspan x="10" y="4362">255.  2017-04-11 14:25:33 +0000    14274 bytes  web/client/Panel.js</tspan>
+<tspan x="10" y="4378">256.  2017-04-11 14:25:33 +0000     4048 bytes  web/client/PanelEnablerView.js</tspan>
+<tspan x="10" y="4394">257.  2017-04-11 14:25:33 +0000     2971 bytes  web/client/Placard.js</tspan>
+<tspan x="10" y="4410">258.  2017-04-11 14:25:33 +0000     4047 bytes  web/client/PleaseWaitMessage.js</tspan>
+<tspan x="10" y="4426">259.  2017-04-11 14:25:33 +0000     9890 bytes  web/client/Popover.js</tspan>
+<tspan x="10" y="4442">260.  2017-04-11 14:25:33 +0000    12359 bytes  web/client/ProfileDataGridTree.js</tspan>
+<tspan x="10" y="4458">261.  2017-04-11 14:25:33 +0000    23294 bytes  web/client/ProfileView.js</tspan>
+<tspan x="10" y="4474">262.  2017-04-11 14:25:33 +0000    26969 bytes  web/client/ProfilesPanel.js</tspan>
+<tspan x="10" y="4490">263.  2017-04-11 14:25:33 +0000     2235 bytes  web/client/PropertiesSection.js</tspan>
+<tspan x="10" y="4506">264.  2017-04-11 14:25:33 +0000     2844 bytes  web/client/PropertiesSidebarPane.js</tspan>
+<tspan x="10" y="4522">265.  2017-04-11 14:25:33 +0000     6100 bytes  web/client/RemoteObject.js</tspan>
+<tspan x="10" y="4538">266.  2017-04-11 14:25:33 +0000    22358 bytes  web/client/Resource.js</tspan>
+<tspan x="10" y="4554">267.  2017-04-11 14:25:33 +0000     1824 bytes  web/client/ResourceCategory.js</tspan>
+<tspan x="10" y="4570">268.  2017-04-11 14:25:33 +0000     3302 bytes  web/client/ResourceCookiesView.js</tspan>
+<tspan x="10" y="4586">269.  2017-04-11 14:25:33 +0000    12416 bytes  web/client/ResourceHeadersView.js</tspan>
+<tspan x="10" y="4602">270.  2017-04-11 14:25:33 +0000     6525 bytes  web/client/ResourceTimingView.js</tspan>
+<tspan x="10" y="4618">271.  2017-04-11 14:25:33 +0000     7269 bytes  web/client/ResourceTreeModel.js</tspan>
+<tspan x="10" y="4634">272.  2017-04-11 14:25:33 +0000     6363 bytes  web/client/ResourceView.js</tspan>
+<tspan x="10" y="4650">273.  2017-04-11 14:25:33 +0000    43784 bytes  web/client/ResourcesPanel.js</tspan>
+<tspan x="10" y="4666">274.  2017-04-11 14:25:33 +0000     6217 bytes  web/client/ScopeChainSidebarPane.js</tspan>
+<tspan x="10" y="4682">275.  2017-04-11 14:25:33 +0000     4019 bytes  web/client/Script.js</tspan>
+<tspan x="10" y="4698">276.  2017-04-11 14:25:33 +0000     9439 bytes  web/client/ScriptFormatter.js</tspan>
+<tspan x="10" y="4714">277.  2017-04-11 14:25:33 +0000     2941 bytes  web/client/ScriptFormatterWorker.js</tspan>
+<tspan x="10" y="4730">278.  2017-04-11 14:25:33 +0000    42067 bytes  web/client/ScriptsPanel.js</tspan>
+<tspan x="10" y="4746">279.  2017-04-11 14:25:33 +0000     4928 bytes  web/client/Section.js</tspan>
+<tspan x="10" y="4762">280.  2017-04-11 14:25:33 +0000     5912 bytes  web/client/Settings.js</tspan>
+<tspan x="10" y="4778">281.  2017-04-11 14:25:33 +0000     5496 bytes  web/client/ShortcutsHelp.js</tspan>
+<tspan x="10" y="4794">282.  2017-04-11 14:25:33 +0000     3254 bytes  web/client/ShowMoreDataGridNode.js</tspan>
+<tspan x="10" y="4810">283.  2017-04-11 14:25:33 +0000     4189 bytes  web/client/SidebarPane.js</tspan>
+<tspan x="10" y="4826">284.  2017-04-11 14:25:33 +0000     5971 bytes  web/client/SidebarTreeElement.js</tspan>
+<tspan x="10" y="4842">285.  2017-04-11 14:25:33 +0000    61212 bytes  web/client/SourceCSSTokenizer.js</tspan>
+<tspan x="10" y="4858">286.  2017-04-11 14:25:33 +0000    16393 bytes  web/client/SourceCSSTokenizer.re2js</tspan>
+<tspan x="10" y="4874">287.  2017-04-11 14:25:33 +0000    34491 bytes  web/client/SourceFrame.js</tspan>
+<tspan x="10" y="4890">288.  2017-04-11 14:25:33 +0000     4383 bytes  web/client/SourceFrameContent.js</tspan>
+<tspan x="10" y="4906">289.  2017-04-11 14:25:33 +0000    31510 bytes  web/client/SourceHTMLTokenizer.js</tspan>
+<tspan x="10" y="4922">290.  2017-04-11 14:25:33 +0000    16173 bytes  web/client/SourceHTMLTokenizer.re2js</tspan>
+<tspan x="10" y="4938">291.  2017-04-11 14:25:33 +0000    99171 bytes  web/client/SourceJavaScriptTokenizer.js</tspan>
+<tspan x="10" y="4954">292.  2017-04-11 14:25:33 +0000     9177 bytes  web/client/SourceJavaScriptTokenizer.re2js</tspan>
+<tspan x="10" y="4970">293.  2017-04-11 14:25:33 +0000     3357 bytes  web/client/SourceTokenizer.js</tspan>
+<tspan x="10" y="4986">294.  2017-04-11 14:25:33 +0000     4277 bytes  web/client/StatusBarButton.js</tspan>
+<tspan x="10" y="5002">295.  2017-04-11 14:25:33 +0000    80488 bytes  web/client/StylesSidebarPane.js</tspan>
+<tspan x="10" y="5018">296.  2017-04-11 14:25:33 +0000    12287 bytes  web/client/SummaryBar.js</tspan>
+<tspan x="10" y="5034">297.  2017-04-11 14:25:33 +0000     3199 bytes  web/client/TabbedPane.js</tspan>
+<tspan x="10" y="5050">298.  2017-04-11 14:25:33 +0000     3038 bytes  web/client/TestController.js</tspan>
+<tspan x="10" y="5066">299.  2017-04-11 14:25:33 +0000     5666 bytes  web/client/TextEditorHighlighter.js</tspan>
+<tspan x="10" y="5082">300.  2017-04-11 14:25:33 +0000     9994 bytes  web/client/TextEditorModel.js</tspan>
+<tspan x="10" y="5098">301.  2017-04-11 14:25:33 +0000    16764 bytes  web/client/TextPrompt.js</tspan>
+<tspan x="10" y="5114">302.  2017-04-11 14:25:33 +0000    43277 bytes  web/client/TextViewer.js</tspan>
+<tspan x="10" y="5130">303.  2017-04-11 14:25:33 +0000     2232 bytes  web/client/TimelineAgent.js</tspan>
+<tspan x="10" y="5146">304.  2017-04-11 14:25:33 +0000     7204 bytes  web/client/TimelineGrid.js</tspan>
+<tspan x="10" y="5162">305.  2017-04-11 14:25:33 +0000    22701 bytes  web/client/TimelineOverviewPane.js</tspan>
+<tspan x="10" y="5178">306.  2017-04-11 14:25:33 +0000    53796 bytes  web/client/TimelinePanel.js</tspan>
+<tspan x="10" y="5194">307.  2017-04-11 14:25:33 +0000     4198 bytes  web/client/TopDownProfileDataGridTree.js</tspan>
+<tspan x="10" y="5210">308.  2017-04-11 14:25:33 +0000    41899 bytes  web/client/UglifyJS/parse-js.js</tspan>
+<tspan x="10" y="5226">309.  2017-04-11 14:25:33 +0000    65191 bytes  web/client/UglifyJS/process.js</tspan>
+<tspan x="10" y="5242">310.  2017-04-11 14:25:33 +0000     2416 bytes  web/client/View.js</tspan>
+<tspan x="10" y="5258">311.  2017-04-11 14:25:33 +0000    10167 bytes  web/client/WatchExpressionsSidebarPane.js</tspan>
+<tspan x="10" y="5274">312.  2017-04-11 14:25:33 +0000    11857 bytes  web/client/WebKit.qrc</tspan>
+<tspan x="10" y="5290">313.  2017-04-11 14:25:33 +0000     3302 bytes  web/client/WelcomeView.js</tspan>
+<tspan x="10" y="5306">314.  2017-04-11 14:25:33 +0000     3961 bytes  web/client/WorkersSidebarPane.js</tspan>
+<tspan x="10" y="5322">315.  2017-04-11 14:25:33 +0000     7175 bytes  web/client/audits.css</tspan>
+<tspan x="10" y="5338">316.  2017-04-11 14:25:33 +0000     1085 bytes  web/client/goToLineDialog.css</tspan>
+<tspan x="10" y="5354">317.  2017-04-11 14:25:33 +0000     3761 bytes  web/client/heapProfiler.css</tspan>
+<tspan x="10" y="5370">318.  2017-04-11 14:25:33 +0000     3079 bytes  web/client/helpScreen.css</tspan>
+<tspan x="10" y="5386">319.  2017-04-11 14:25:33 +0000    14628 bytes  web/client/index.html</tspan>
+<tspan x="10" y="5402">320.  2017-04-11 14:25:33 +0000   103835 bytes  web/client/inspector.css</tspan>
+<tspan x="10" y="5418">321.  2017-04-11 14:25:33 +0000    11865 bytes  web/client/inspector.html</tspan>
+<tspan x="10" y="5434">322.  2017-04-11 14:25:33 +0000    66487 bytes  web/client/inspector.js</tspan>
+<tspan x="10" y="5450">323.  2017-04-11 14:25:33 +0000     3409 bytes  web/client/inspectorSyntaxHighlight.css</tspan>
+<tspan x="10" y="5466">324.  2017-04-11 14:25:33 +0000    18858 bytes  web/client/networkPanel.css</tspan>
+<tspan x="10" y="5482">325.  2017-04-11 14:25:33 +0000    52092 bytes  web/client/nls/English.lproj/localizedStrings.js</tspan>
+<tspan x="10" y="5498">326.  2017-04-11 14:25:33 +0000     4340 bytes  web/client/popover.css</tspan>
+<tspan x="10" y="5514">327.  2017-04-11 14:25:33 +0000     4513 bytes  web/client/textViewer.css</tspan>
+<tspan x="10" y="5530">328.  2017-04-11 14:25:33 +0000    29735 bytes  web/client/treeoutline.js</tspan>
+<tspan x="10" y="5546">329.  2017-04-11 14:25:33 +0000    32332 bytes  web/client/utilities.js</tspan>
+<tspan x="10" y="5562">330.  2017-04-11 14:25:33 +0000      859 bytes  web/client/web-inspector-API.js</tspan>
+<tspan x="10" y="5578">331.  2017-04-11 14:25:33 +0000     6326 bytes  web/client/weinre/Images/remoteIcon.png</tspan>
+<tspan x="10" y="5594">332.  2017-04-11 14:25:33 +0000     1474 bytes  web/client/weinre/browser-support-check.js</tspan>
+<tspan x="10" y="5610">333.  2017-04-11 14:25:33 +0000     2280 bytes  web/client/weinre/client.css</tspan>
+<tspan x="10" y="5626">334.  2017-04-11 14:25:33 +0000     4247 bytes  web/client/weinre/hacks.js</tspan>
+<tspan x="10" y="5642">335.  2017-04-11 14:25:33 +0000      923 bytes  web/demo/split.html</tspan>
+<tspan x="10" y="5658">336.  2017-04-11 14:25:33 +0000     1629 bytes  web/demo/weinre-demo-min.html</tspan>
+<tspan x="10" y="5674">337.  2017-04-11 14:25:33 +0000     1673 bytes  web/demo/weinre-demo-strict.html</tspan>
+<tspan x="10" y="5690">338.  2017-04-11 14:25:33 +0000     5746 bytes  web/demo/weinre-demo-strict.js</tspan>
+<tspan x="10" y="5706">339.  2017-04-11 14:25:33 +0000     1088 bytes  web/demo/weinre-demo.css</tspan>
+<tspan x="10" y="5722">340.  2017-04-11 14:25:33 +0000     1629 bytes  web/demo/weinre-demo.html</tspan>
+<tspan x="10" y="5738">341.  2017-04-11 14:25:33 +0000     5749 bytes  web/demo/weinre-demo.js</tspan>
+<tspan x="10" y="5754">342.  2017-04-11 14:25:33 +0000     5118 bytes  web/doc/Building.html</tspan>
+<tspan x="10" y="5770">343.  2017-04-11 14:25:33 +0000    20734 bytes  web/doc/ChangeLog.html</tspan>
+<tspan x="10" y="5786">344.  2017-04-11 14:25:33 +0000    10807 bytes  web/doc/Home.html</tspan>
+<tspan x="10" y="5802">345.  2017-04-11 14:25:33 +0000     7276 bytes  web/doc/Installing.html</tspan>
+<tspan x="10" y="5818">346.  2017-04-11 14:25:33 +0000     4280 bytes  web/doc/License.html</tspan>
+<tspan x="10" y="5834">347.  2017-04-11 14:25:33 +0000     7280 bytes  web/doc/MultiUser.html</tspan>
+<tspan x="10" y="5850">348.  2017-04-11 14:25:33 +0000    13830 bytes  web/doc/Running.html</tspan>
+<tspan x="10" y="5866">349.  2017-04-11 14:25:33 +0000     5720 bytes  web/doc/Security.html</tspan>
+<tspan x="10" y="5882">350.  2017-04-11 14:25:33 +0000    12912 bytes  web/doc/UserInterface.html</tspan>
+<tspan x="10" y="5898">351.  2017-04-11 14:25:33 +0000      135 bytes  web/doc/build-info.txt</tspan>
+<tspan x="10" y="5914">352.  2017-04-11 14:25:33 +0000     5498 bytes  web/doc/css/main.css</tspan>
+<tspan x="10" y="5930">353.  2017-04-11 14:25:33 +0000     2260 bytes  web/doc/images/circled-a.png</tspan>
+<tspan x="10" y="5946">354.  2017-04-11 14:25:33 +0000     2271 bytes  web/doc/images/circled-b.png</tspan>
+<tspan x="10" y="5962">355.  2017-04-11 14:25:33 +0000     2324 bytes  web/doc/images/circled-c.png</tspan>
+<tspan x="10" y="5978">356.  2017-04-11 14:25:33 +0000     2259 bytes  web/doc/images/circled-d.png</tspan>
+<tspan x="10" y="5994">357.  2017-04-11 14:25:33 +0000     2197 bytes  web/doc/images/circled-e.png</tspan>
+<tspan x="10" y="6010">358.  2017-04-11 14:25:33 +0000     2149 bytes  web/doc/images/circled-f.png</tspan>
+<tspan x="10" y="6026">359.  2017-04-11 14:25:33 +0000     2368 bytes  web/doc/images/circled-g.png</tspan>
+<tspan x="10" y="6042">360.  2017-04-11 14:25:33 +0000     2114 bytes  web/doc/images/circled-h.png</tspan>
+<tspan x="10" y="6058">361.  2017-04-11 14:25:33 +0000     2030 bytes  web/doc/images/circled-i.png</tspan>
+<tspan x="10" y="6074">362.  2017-04-11 14:25:33 +0000     2138 bytes  web/doc/images/circled-j.png</tspan>
+<tspan x="10" y="6090">363.  2017-04-11 14:25:33 +0000   125870 bytes  web/doc/images/panel-console.png</tspan>
+<tspan x="10" y="6106">364.  2017-04-11 14:25:33 +0000   168517 bytes  web/doc/images/panel-elements.png</tspan>
+<tspan x="10" y="6122">365.  2017-04-11 14:25:33 +0000   129191 bytes  web/doc/images/panel-network.png</tspan>
+<tspan x="10" y="6138">366.  2017-04-11 14:25:33 +0000   111326 bytes  web/doc/images/panel-remote-console.png</tspan>
+<tspan x="10" y="6154">367.  2017-04-11 14:25:33 +0000   131251 bytes  web/doc/images/panel-remote.png</tspan>
+<tspan x="10" y="6170">368.  2017-04-11 14:25:33 +0000    91188 bytes  web/doc/images/panel-resources.png</tspan>
+<tspan x="10" y="6186">369.  2017-04-11 14:25:33 +0000   117361 bytes  web/doc/images/panel-timeline.png</tspan>
+<tspan x="10" y="6202">370.  2017-04-11 14:25:33 +0000   111501 bytes  web/doc/images/server-home.png</tspan>
+<tspan x="10" y="6218">371.  2017-04-11 14:25:33 +0000   432255 bytes  web/doc/images/weinre-demo.jpg</tspan>
+<tspan x="10" y="6234">372.  2017-04-11 14:25:33 +0000     5767 bytes  web/doc/images/weinre-icon-128x128.png</tspan>
+<tspan x="10" y="6250">373.  2017-04-11 14:25:33 +0000    22326 bytes  web/doc/images/weinre-icon-512x512.png</tspan>
+<tspan x="10" y="6266">374.  2017-04-11 14:25:33 +0000     2583 bytes  web/doc/images/weinre-icon-64x64.png</tspan>
+<tspan x="10" y="6282">375.  2017-04-11 14:25:33 +0000    10807 bytes  web/doc/index.html</tspan>
+<tspan x="10" y="6298">376.  2017-04-11 14:25:33 +0000     3041 bytes  web/doc/scripts/main.js</tspan>
+<tspan x="10" y="6314">377.  2017-04-11 14:25:33 +0000     5767 bytes  web/images/weinre-icon-128x128.png</tspan>
+<tspan x="10" y="6330">378.  2017-04-11 14:25:33 +0000     1085 bytes  web/images/weinre-icon-32x32.png</tspan>
+<tspan x="10" y="6346">379.  2017-04-11 14:25:33 +0000     2583 bytes  web/images/weinre-icon-64x64.png</tspan>
+<tspan x="10" y="6362">380.  2017-04-11 14:25:33 +0000     3539 bytes  web/index.html</tspan>
+<tspan x="10" y="6378">381.  2017-04-11 14:25:33 +0000     4057 bytes  web/index.js</tspan>
+<tspan x="10" y="6394">382.  2017-04-11 14:25:33 +0000     6648 bytes  web/interfaces/InjectedScriptHost.json</tspan>
+<tspan x="10" y="6410">383.  2017-04-11 14:25:33 +0000   115413 bytes  web/interfaces/Inspector.json</tspan>
+<tspan x="10" y="6426">384.  2017-04-11 14:25:33 +0000     6587 bytes  web/interfaces/InspectorFrontendHost.json</tspan>
+<tspan x="10" y="6442">385.  2017-04-11 14:25:33 +0000     4816 bytes  web/interfaces/WeinreClientCommands.json</tspan>
+<tspan x="10" y="6458">386.  2017-04-11 14:25:33 +0000     4235 bytes  web/interfaces/WeinreClientEvents.json</tspan>
+<tspan x="10" y="6474">387.  2017-04-11 14:25:33 +0000      686 bytes  web/interfaces/WeinreExtraClientCommands.json</tspan>
+<tspan x="10" y="6490">388.  2017-04-11 14:25:33 +0000      614 bytes  web/interfaces/WeinreExtraTargetEvents.json</tspan>
+<tspan x="10" y="6506">389.  2017-04-11 14:25:33 +0000     3074 bytes  web/interfaces/WeinreTargetCommands.json</tspan>
+<tspan x="10" y="6522">390.  2017-04-11 14:25:33 +0000     1984 bytes  web/interfaces/WeinreTargetEvents.json</tspan>
+<tspan x="10" y="6538">391.  2017-04-11 14:25:33 +0000    18458 bytes  web/interfaces/all-json-idls-min.js</tspan>
+<tspan x="10" y="6554">392.  2017-04-11 14:25:33 +0000   192631 bytes  web/interfaces/all-json-idls.js</tspan>
+<tspan x="10" y="6570">393.  2017-04-11 14:25:33 +0000     1870 bytes  web/interfaces/interfaces.css</tspan>
+<tspan x="10" y="6586">394.  2017-04-11 14:25:33 +0000     2581 bytes  web/interfaces/interfaces.html</tspan>
+<tspan x="10" y="6602">395.  2017-04-11 14:25:33 +0000    14548 bytes  web/interfaces/interfaces.js</tspan>
+<tspan x="10" y="6618">396.  2017-04-11 14:25:33 +0000    12681 bytes  web/modjewel.js</tspan>
+<tspan x="10" y="6634">397.  2017-04-11 14:25:33 +0000   155106 bytes  web/target/target-script-min.js</tspan>
+<tspan x="10" y="6650">398.  2017-04-11 14:25:33 +0000   198005 bytes  web/target/target-script.js</tspan>
+<tspan x="10" y="6666">399.  2017-04-11 14:25:33 +0000     3931 bytes  web/tests/element-highlighter.html</tspan>
+<tspan x="10" y="6682">400.  2017-04-11 14:25:33 +0000      963 bytes  web/tests/index.html</tspan>
+<tspan x="10" y="6698">401.  2017-04-11 14:25:33 +0000      947 bytes  web/versions.js</tspan>
+<tspan x="10" y="6714">402.  2017-04-11 14:25:33 +0000     5871 bytes  web/weinre/client/Client.amd.js</tspan>
+<tspan x="10" y="6730">403.  2017-04-11 14:25:33 +0000     4704 bytes  web/weinre/client/ConnectorList.amd.js</tspan>
+<tspan x="10" y="6746">404.  2017-04-11 14:25:33 +0000     2181 bytes  web/weinre/client/DOMTemplates.amd.js</tspan>
+<tspan x="10" y="6762">405.  2017-04-11 14:25:33 +0000     1027 bytes  web/weinre/client/ExtensionRegistryImpl.amd.js</tspan>
+<tspan x="10" y="6778">406.  2017-04-11 14:25:33 +0000     2306 bytes  web/weinre/client/InspectorBackendImpl.amd.js</tspan>
+<tspan x="10" y="6794">407.  2017-04-11 14:25:33 +0000     3249 bytes  web/weinre/client/InspectorFrontendHostImpl.amd.\</tspan>
 <tspan x="10" y="6810">js</tspan>
-<tspan x="10" y="6826">408.  2017-04-11 14:23:29 +0000     8174 bytes  web/weinre/client/RemotePanel.amd.js</tspan>
-<tspan x="10" y="6842">409.  2017-04-11 14:23:29 +0000     3955 bytes  web/weinre/client/WeinreClientEventsImpl.amd.js</tspan>
-<tspan x="10" y="6858">410.  2017-04-11 14:23:29 +0000     1622 bytes  web/weinre/client/WeinreExtraTargetEventsImpl.am\</tspan>
+<tspan x="10" y="6826">408.  2017-04-11 14:25:33 +0000     8174 bytes  web/weinre/client/RemotePanel.amd.js</tspan>
+<tspan x="10" y="6842">409.  2017-04-11 14:25:33 +0000     3955 bytes  web/weinre/client/WeinreClientEventsImpl.amd.js</tspan>
+<tspan x="10" y="6858">410.  2017-04-11 14:25:33 +0000     1622 bytes  web/weinre/client/WeinreExtraTargetEventsImpl.am\</tspan>
 <tspan x="10" y="6874">d.js</tspan>
-<tspan x="10" y="6890">411.  2017-04-11 14:23:29 +0000      744 bytes  web/weinre/common/Binding.amd.js</tspan>
-<tspan x="10" y="6906">412.  2017-04-11 14:23:29 +0000     2266 bytes  web/weinre/common/Callback.amd.js</tspan>
-<tspan x="10" y="6922">413.  2017-04-11 14:23:29 +0000     1488 bytes  web/weinre/common/Debug.amd.js</tspan>
-<tspan x="10" y="6938">414.  2017-04-11 14:23:29 +0000     1988 bytes  web/weinre/common/EventListeners.amd.js</tspan>
-<tspan x="10" y="6954">415.  2017-04-11 14:23:29 +0000     1164 bytes  web/weinre/common/Ex.amd.js</tspan>
-<tspan x="10" y="6970">416.  2017-04-11 14:23:29 +0000     4054 bytes  web/weinre/common/HookLib.amd.js</tspan>
-<tspan x="10" y="6986">417.  2017-04-11 14:23:29 +0000      854 bytes  web/weinre/common/IDGenerator.amd.js</tspan>
-<tspan x="10" y="7002">418.  2017-04-11 14:23:29 +0000     4371 bytes  web/weinre/common/IDLTools.amd.js</tspan>
-<tspan x="10" y="7018">419.  2017-04-11 14:23:29 +0000     6430 bytes  web/weinre/common/MessageDispatcher.amd.js</tspan>
-<tspan x="10" y="7034">420.  2017-04-11 14:23:29 +0000     1067 bytes  web/weinre/common/MethodNamer.amd.js</tspan>
-<tspan x="10" y="7050">421.  2017-04-11 14:23:29 +0000     1635 bytes  web/weinre/common/StackTrace.amd.js</tspan>
-<tspan x="10" y="7066">422.  2017-04-11 14:23:29 +0000     6754 bytes  web/weinre/common/WebSocketXhr.amd.js</tspan>
-<tspan x="10" y="7082">423.  2017-04-11 14:23:29 +0000     2491 bytes  web/weinre/common/Weinre.amd.js</tspan>
-<tspan x="10" y="7098">424.  2017-04-11 14:23:29 +0000      821 bytes  web/weinre/target/BrowserHacks.amd.js</tspan>
-<tspan x="10" y="7114">425.  2017-04-11 14:23:29 +0000    11812 bytes  web/weinre/target/CSSStore.amd.js</tspan>
-<tspan x="10" y="7130">426.  2017-04-11 14:23:29 +0000      901 bytes  web/weinre/target/CheckForProblems.amd.js</tspan>
-<tspan x="10" y="7146">427.  2017-04-11 14:23:29 +0000     4257 bytes  web/weinre/target/Console.amd.js</tspan>
-<tspan x="10" y="7162">428.  2017-04-11 14:23:29 +0000     3341 bytes  web/weinre/target/ElementHighlighter.amd.js</tspan>
-<tspan x="10" y="7178">429.  2017-04-11 14:23:29 +0000     3969 bytes  web/weinre/target/ElementHighlighterDivs2.amd.js</tspan>
-<tspan x="10" y="7194">430.  2017-04-11 14:23:29 +0000     1841 bytes  web/weinre/target/HookSites.amd.js</tspan>
-<tspan x="10" y="7210">431.  2017-04-11 14:23:29 +0000    26930 bytes  web/weinre/target/InjectedScript.js</tspan>
-<tspan x="10" y="7226">432.  2017-04-11 14:23:29 +0000     1829 bytes  web/weinre/target/InjectedScriptHostImpl.amd.js</tspan>
-<tspan x="10" y="7242">433.  2017-04-11 14:23:29 +0000     5918 bytes  web/weinre/target/NetworkRequest.amd.js</tspan>
-<tspan x="10" y="7258">434.  2017-04-11 14:23:29 +0000     7305 bytes  web/weinre/target/NodeStore.amd.js</tspan>
-<tspan x="10" y="7274">435.  2017-04-11 14:23:29 +0000     2659 bytes  web/weinre/target/SqlStepper.amd.js</tspan>
-<tspan x="10" y="7290">436.  2017-04-11 14:23:29 +0000     8727 bytes  web/weinre/target/Target.amd.js</tspan>
-<tspan x="10" y="7306">437.  2017-04-11 14:23:29 +0000    11393 bytes  web/weinre/target/Timeline.amd.js</tspan>
-<tspan x="10" y="7322">438.  2017-04-11 14:23:29 +0000      818 bytes  web/weinre/target/WeinreExtraClientCommandsImpl.\</tspan>
+<tspan x="10" y="6890">411.  2017-04-11 14:25:33 +0000      744 bytes  web/weinre/common/Binding.amd.js</tspan>
+<tspan x="10" y="6906">412.  2017-04-11 14:25:33 +0000     2266 bytes  web/weinre/common/Callback.amd.js</tspan>
+<tspan x="10" y="6922">413.  2017-04-11 14:25:33 +0000     1488 bytes  web/weinre/common/Debug.amd.js</tspan>
+<tspan x="10" y="6938">414.  2017-04-11 14:25:33 +0000     1988 bytes  web/weinre/common/EventListeners.amd.js</tspan>
+<tspan x="10" y="6954">415.  2017-04-11 14:25:33 +0000     1164 bytes  web/weinre/common/Ex.amd.js</tspan>
+<tspan x="10" y="6970">416.  2017-04-11 14:25:33 +0000     4054 bytes  web/weinre/common/HookLib.amd.js</tspan>
+<tspan x="10" y="6986">417.  2017-04-11 14:25:33 +0000      854 bytes  web/weinre/common/IDGenerator.amd.js</tspan>
+<tspan x="10" y="7002">418.  2017-04-11 14:25:33 +0000     4371 bytes  web/weinre/common/IDLTools.amd.js</tspan>
+<tspan x="10" y="7018">419.  2017-04-11 14:25:33 +0000     6430 bytes  web/weinre/common/MessageDispatcher.amd.js</tspan>
+<tspan x="10" y="7034">420.  2017-04-11 14:25:33 +0000     1067 bytes  web/weinre/common/MethodNamer.amd.js</tspan>
+<tspan x="10" y="7050">421.  2017-04-11 14:25:33 +0000     1635 bytes  web/weinre/common/StackTrace.amd.js</tspan>
+<tspan x="10" y="7066">422.  2017-04-11 14:25:33 +0000     6754 bytes  web/weinre/common/WebSocketXhr.amd.js</tspan>
+<tspan x="10" y="7082">423.  2017-04-11 14:25:33 +0000     2491 bytes  web/weinre/common/Weinre.amd.js</tspan>
+<tspan x="10" y="7098">424.  2017-04-11 14:25:33 +0000      821 bytes  web/weinre/target/BrowserHacks.amd.js</tspan>
+<tspan x="10" y="7114">425.  2017-04-11 14:25:33 +0000    11812 bytes  web/weinre/target/CSSStore.amd.js</tspan>
+<tspan x="10" y="7130">426.  2017-04-11 14:25:33 +0000      901 bytes  web/weinre/target/CheckForProblems.amd.js</tspan>
+<tspan x="10" y="7146">427.  2017-04-11 14:25:33 +0000     4257 bytes  web/weinre/target/Console.amd.js</tspan>
+<tspan x="10" y="7162">428.  2017-04-11 14:25:33 +0000     3341 bytes  web/weinre/target/ElementHighlighter.amd.js</tspan>
+<tspan x="10" y="7178">429.  2017-04-11 14:25:33 +0000     3969 bytes  web/weinre/target/ElementHighlighterDivs2.amd.js</tspan>
+<tspan x="10" y="7194">430.  2017-04-11 14:25:33 +0000     1841 bytes  web/weinre/target/HookSites.amd.js</tspan>
+<tspan x="10" y="7210">431.  2017-04-11 14:25:33 +0000    26930 bytes  web/weinre/target/InjectedScript.js</tspan>
+<tspan x="10" y="7226">432.  2017-04-11 14:25:33 +0000     1829 bytes  web/weinre/target/InjectedScriptHostImpl.amd.js</tspan>
+<tspan x="10" y="7242">433.  2017-04-11 14:25:33 +0000     5918 bytes  web/weinre/target/NetworkRequest.amd.js</tspan>
+<tspan x="10" y="7258">434.  2017-04-11 14:25:33 +0000     7305 bytes  web/weinre/target/NodeStore.amd.js</tspan>
+<tspan x="10" y="7274">435.  2017-04-11 14:25:33 +0000     2659 bytes  web/weinre/target/SqlStepper.amd.js</tspan>
+<tspan x="10" y="7290">436.  2017-04-11 14:25:33 +0000     8727 bytes  web/weinre/target/Target.amd.js</tspan>
+<tspan x="10" y="7306">437.  2017-04-11 14:25:33 +0000    11393 bytes  web/weinre/target/Timeline.amd.js</tspan>
+<tspan x="10" y="7322">438.  2017-04-11 14:25:33 +0000      818 bytes  web/weinre/target/WeinreExtraClientCommandsImpl.\</tspan>
 <tspan x="10" y="7338">amd.js</tspan>
-<tspan x="10" y="7354">439.  2017-04-11 14:23:29 +0000     1467 bytes  web/weinre/target/WeinreTargetEventsImpl.amd.js</tspan>
-<tspan x="10" y="7370">440.  2017-04-11 14:23:29 +0000     4227 bytes  web/weinre/target/WiCSSImpl.amd.js</tspan>
-<tspan x="10" y="7386">441.  2017-04-11 14:23:29 +0000     1115 bytes  web/weinre/target/WiConsoleImpl.amd.js</tspan>
-<tspan x="10" y="7402">442.  2017-04-11 14:23:29 +0000     6431 bytes  web/weinre/target/WiDOMImpl.amd.js</tspan>
-<tspan x="10" y="7418">443.  2017-04-11 14:23:29 +0000     4867 bytes  web/weinre/target/WiDOMStorageImpl.amd.js</tspan>
-<tspan x="10" y="7434">444.  2017-04-11 14:23:29 +0000     4314 bytes  web/weinre/target/WiDatabaseImpl.amd.js</tspan>
-<tspan x="10" y="7450">445.  2017-04-11 14:23:29 +0000     1760 bytes  web/weinre/target/WiInspectorImpl.amd.js</tspan>
-<tspan x="10" y="7466">446.  2017-04-11 14:23:29 +0000     2053 bytes  web/weinre/target/WiRuntimeImpl.amd.js</tspan>
-<tspan x="10" y="7482">447.  2017-04-11 14:23:29 +0000     1040 bytes  weinre</tspan>
+<tspan x="10" y="7354">439.  2017-04-11 14:25:33 +0000     1467 bytes  web/weinre/target/WeinreTargetEventsImpl.amd.js</tspan>
+<tspan x="10" y="7370">440.  2017-04-11 14:25:33 +0000     4227 bytes  web/weinre/target/WiCSSImpl.amd.js</tspan>
+<tspan x="10" y="7386">441.  2017-04-11 14:25:33 +0000     1115 bytes  web/weinre/target/WiConsoleImpl.amd.js</tspan>
+<tspan x="10" y="7402">442.  2017-04-11 14:25:33 +0000     6431 bytes  web/weinre/target/WiDOMImpl.amd.js</tspan>
+<tspan x="10" y="7418">443.  2017-04-11 14:25:33 +0000     4867 bytes  web/weinre/target/WiDOMStorageImpl.amd.js</tspan>
+<tspan x="10" y="7434">444.  2017-04-11 14:25:33 +0000     4314 bytes  web/weinre/target/WiDatabaseImpl.amd.js</tspan>
+<tspan x="10" y="7450">445.  2017-04-11 14:25:33 +0000     1760 bytes  web/weinre/target/WiInspectorImpl.amd.js</tspan>
+<tspan x="10" y="7466">446.  2017-04-11 14:25:33 +0000     2053 bytes  web/weinre/target/WiRuntimeImpl.amd.js</tspan>
+<tspan x="10" y="7482">447.  2017-04-11 14:25:33 +0000     1040 bytes  weinre</tspan>
 </text>
 </svg>
