@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">8 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ weinre@2.0.0-pre-I0Z7U9OV </tspan>
+<tspan x="10" y="90">  ├─┬ express@2.5.11 </tspan>
+<tspan x="10" y="106">  │ ├─┬ connect@1.9.2 </tspan>
+<tspan x="10" y="122">  │ │ └── formidable@1.0.17 </tspan>
+<tspan x="10" y="138">  │ ├── mime@1.2.4 </tspan>
+<tspan x="10" y="154">  │ ├── mkdirp@0.3.0 </tspan>
+<tspan x="10" y="170">  │ └── qs@0.4.2 </tspan>
+<tspan x="10" y="186">  ├─┬ nopt@3.0.6 </tspan>
+<tspan x="10" y="202">  │ └── abbrev@1.1.0 </tspan>
+<tspan x="10" y="218">  └── underscore@1.7.0</tspan>
+</text>
+</svg>
